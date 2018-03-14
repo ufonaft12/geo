@@ -128,7 +128,95 @@
 		</div>
 	</header>
 	
-	
+	<section class="form container">
+				<div class="row">
+					<div class="col-md-12">
+						<h2>צור קשר</h2>
+						<form action="/#wpcf7-f549-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+							
+							<p>
+								<span class="wpcf7-form-control-wrap your-name">
+									<input name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="שם מלא *" type="text">
+								</span>
+								
+								<span class="wpcf7-form-control-wrap your-email">
+									<input name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="מייל *" type="email">
+								</span>
+								
+								<span class="wpcf7-form-control-wrap tel-928">
+									<input name="tel-928" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="טלפון *" type="tel">
+								</span>
+								
+								<span class="wpcf7-form-control-wrap text-893">
+									<input name="text-893" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="חברה" type="text">
+								</span>
+								
+								<span class="wpcf7-form-control-wrap your-message">
+									<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="תוכן ההודעה:"></textarea>
+								</span>
+							</p>
+							
+							<p>
+								<input value="שלח" class="wpcf7-form-control wpcf7-submit" type="submit">
+								<span class="ajax-loader"></span>
+							</p>
+							
+						</form>
+					</div>
+				</div>
+			</section>
+			
+			<footer class="container-fluid">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="container">
+							<div class="footer_row row">
+								<div class="col-md-8">
+									<ul id="menu_footer" class="footer_menu-menu">
+										<li class="menu-item">
+											<a href="#/">צור קשר</a>
+										</li>
+										<li class="menu_item">
+											<a href="#">דרושים</a>
+										</li>
+										<li class="menu_item">
+											<a href="#/">מאמרים</a>
+										</li>
+										<li class="menu_item">
+											<a href="#/">מהתקשורת</a>
+										</li>
+										<li class="menu_item">
+											<a href="#/">שיטות מחקר</a>
+										</li>
+										<li class="menu_item">
+											<a href="#/">תחומי פעילות</a>
+										</li>
+										<li class="menu_item">
+											<a href="#/">אודות</a>
+										</li>
+										<li class="menu_item">
+											<a href="#/">עמוד הבית</a>
+										</li>
+									</ul>
+								</div>
+								<div class="footer_social col-md-4">
+									<ul class="footer_links">
+										<li><i class="icon-facebook"></i></li>
+										<li><i class="icon-linkedin"></i></li>
+										<li><a href="tel:03-7682222">03-7682222<i class="icon-phone"></i></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="row">
+								<div class="copyright col-md-12">
+									©  כל הזכויות שמורות, קבוצת גיאוקרטוגרפיה בע״מ, 2016
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</footer>
 			
 			
 			<!-- Bootstrap core JavaScript ================================================== -->
