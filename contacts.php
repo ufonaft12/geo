@@ -7,7 +7,7 @@
 		<meta name="author" content="">
 		<link rel="icon" href="favicon.ico">
 		
-		<title>GEO - front page</title>
+		<title>GEO - contact page</title>
 		
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -19,10 +19,10 @@
 		<link rel="stylesheet" href="css/opensanshebrew.min.css">
 		<link rel="stylesheet" href="css/fontello.css">
 		<link rel="stylesheet" href="css/main.css">
-		<link rel="stylesheet" href="css/front-page.css">
+		<link rel="stylesheet" href="css/contact.css">
 	</head>
 	
-	<body class="rtl home front-page">
+	<body class="rtl home contact-page">
 		<header class="container-fluid">
 			<div class="row">
 				<div class="container"> 
@@ -128,10 +128,14 @@
 		</div>
 	</header>
 	
-	<section class="form container">
+	<section class="contact-form container">
 				<div class="row">
 					<div class="col-md-12">
 						<h2>צור קשר</h2>
+                        <h3>קבוצת גיאוקרטוגרפיה</h3>
+                        <p>דרך מנחם בגין , 154 ת"א מיקוד 64921 , בית קרדן</p>
+                        <p>טלפון: 03-7682222</p>
+                        <p>פקס: 03-7682223</p>
 						<form action="/#wpcf7-f549-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 							
 							<p>
