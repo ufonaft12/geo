@@ -7,7 +7,7 @@
 		<meta name="author" content="">
 		<link rel="icon" href="favicon.ico">
 		
-		<title>GEO - front page</title>
+		<title>GEO - About</title>
 		
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -145,22 +145,84 @@
         <div class="row">
             <div class="col-md-12">
                 <h2>פרופיל חברה</h2>
-                <p>קבוצת גיאוקרטוגרפיה הינה מכון מחקר ייחודי, המכוון להעניק ללקוחותיו ייעוץ ופתרונות מקיפים, בהתאמה פרטנית, תוך שימוש בכלי מחקר מתקדמים ובלתי שגרתיים, המקנים ידע מעשי ותובנות.</p>
-                <p>בראש החברה עומדים פרופ' אבי דגני וד"ר רינה דגני, ולצדם צוות מקצועי ומיומן של חוקרים בכירים, בעלי תארים אקדמיים, מתחומים שונים, המופקדים על תחום המחקר, ומביאים לידי ביטוי את מומחיות החברה וייחודה המקצועי, ובהדגשה את יכולתה לשלב תחומי התמחות מגוונים, באופן אינטגרטיבי</p>
-                <p>גיאוקרטוגרפיה פועלת עבור לקוחותיה החל משלב זיהוי והגדרת הצרכים, גיבוש מתודולוגיות מתאימות, איסוף המידע, דרך ניתוחים מעמיקים של השוק, עולם התחרות והלקוחות, ועד בניית מודלים, התומכים בגיבוש אסטרטגיה שיווקית-עסקית, בתהליכי תכנון כלכלי וקבלת החלטות, בתהליכי מיתוג, ובליווי חברות וגופים שונים במגוון ענפי שוק ותחומי פעילות, כולל בשלבי ההטמעה והיישום</p>
-                <p>החברה פועלת במספר תחומים, ומעמידה לרשות הלקוח סל פתרונות מגוון:</p>
+                <p class="text-center">קבוצת גיאוקרטוגרפיה הינה מכון מחקר ייחודי, המכוון להעניק ללקוחותיו ייעוץ ופתרונות מקיפים, בהתאמה פרטנית, תוך שימוש בכלי מחקר מתקדמים ובלתי שגרתיים, המקנים ידע מעשי ותובנות.</p>
+                <p class="text-center">בראש החברה עומדים פרופ' אבי דגני וד"ר רינה דגני, ולצדם צוות מקצועי ומיומן של חוקרים בכירים, בעלי תארים אקדמיים, מתחומים שונים, המופקדים על תחום המחקר, ומביאים לידי ביטוי את מומחיות החברה וייחודה המקצועי, ובהדגשה את יכולתה לשלב תחומי התמחות מגוונים, באופן אינטגרטיבי</p>
+                <p class="text-center">גיאוקרטוגרפיה פועלת עבור לקוחותיה החל משלב זיהוי והגדרת הצרכים, גיבוש מתודולוגיות מתאימות, איסוף המידע, דרך ניתוחים מעמיקים של השוק, עולם התחרות והלקוחות, ועד בניית מודלים, התומכים בגיבוש אסטרטגיה שיווקית-עסקית, בתהליכי תכנון כלכלי וקבלת החלטות, בתהליכי מיתוג, ובליווי חברות וגופים שונים במגוון ענפי שוק ותחומי פעילות, כולל בשלבי ההטמעה והיישום</p>
+                <p class="text-center">החברה פועלת במספר תחומים, ומעמידה לרשות הלקוח סל פתרונות מגוון:</p>
             </div>
-            <div class="col-md-12 profile-box">
-                <div class="col-md-3 profile-box_item"></div>
-                <div class="col-md-3 profile-box_item"></div>
-                <div class="col-md-3 profile-box_item"></div>
-                <div class="col-md-3 profile-box_item"></div>
+
+
+            <div class="container">
+                <div class="row">
+                    <div class="activities_content col-md-12">
+
+                        <div class="activities_item">
+                            <div class="activities_item-img">
+                                <div class="img1"></div>
+                            </div>
+                            <div class="activities_item-title">
+                                שיווק, פרסום ודעת קהל
+                            </div>
+                        </div>
+
+                        <div class="activities_item">
+                            <div class="activities_item-img">
+                                <div class="img2"></div>
+                            </div>
+                            <div class="activities_item-title">
+                                שיווק, פרסום ודעת קהל
+                            </div>
+                        </div>
+
+                        <div class="activities_item">
+                            <div class="activities_item-img">
+                                <div class="img3"></div>
+                            </div>
+                            <div class="activities_item-title">
+                                שיווק, פרסום ודעת קהל
+                            </div>
+                        </div>
+
+                        <div class="activities_item">
+                            <div class="activities_item-img">
+                                <div class="img4"></div>
+                            </div>
+                            <div class="activities_item-title">
+                                שיווק, פרסום ודעת קהל
+                            </div>
+                        </div>
+
+                        <div class="activities_item">
+                            <div class="activities_item-img">
+                                <div class="img5"></div>
+                            </div>
+                            <div class="activities_item-title">
+                                שיווק, פרסום ודעת קהל
+                            </div>
+                        </div>
+
+                        <div class="activities_item">
+                            <div class="activities_item-img">
+                                <div class="img6"></div>
+                            </div>
+                            <div class="activities_item-title">
+                                שיווק, פרסום ודעת קהל
+                            </div>
+                        </div>
+
+                        <div class="activities_item">
+                            <div class="activities_item-img">
+                                <div class="img7"></div>
+                            </div>
+                            <div class="activities_item-title">
+                                שיווק, פרסום ודעת קהל
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-12 profile-box">
-                <div class="col-md-4 profile-box_item"></div>
-                <div class="col-md-4 profile-box_item"></div>
-                <div class="col-md-4 profile-box_item"></div>
-            </div>
+
+
             <div class="col-md-12">
                 <p>היכולת המדעית והמקצועית מבוססת על 30 שנות ניסיון ופיתוח מחקרי-חלוצי, בקנה מידה בינלאומי, בתחומי האסטרטגיה של מידע, בגופים מסחריים, ציבוריים וחברתיים, יישום מערכות מידע גיאוגרפיות, מודלים ממוחשבים בחקר המרחב העירוני, האזורי והארצי, וכן חישובי פוטנציאל כלכלי-מסחרי. כל אלו משולבים כיום בכל תחומי הפעילות המחקרית-יישומית של החברה, בד בבד עם המשך השקעה במחקר ופיתוח.</p>
                 <p>מגוון רחב מאד של יכולות, כולן In House  - סקרים, איסוף מידע, מיפוי אנליטי, מתודולוגיות מגוונות וייחודיות, מקנה לחברה גמישות מחקרית ותפעולית, יכולת להפעיל תהליכי בקרת איכות ברמה גבוהה, וכמובן מהירות בביצוע. המתודולוגיות מאופיינות בתפיסה דינאמית, וביכולות תצוגה מגוונות.</p>
@@ -168,6 +230,7 @@
             </div>
         </div>
     </section>
+
 
 
         <section class="container starlist-box">
@@ -190,7 +253,7 @@
             </div>
         </section>
 
-        <section class="container-fluid">
+        <section class="container-fluid aboutgraf">
 
         </section>
 

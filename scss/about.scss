@@ -2,3 +2,68 @@
 .about-page {
   background: url(../img/about-bg.png) no-repeat;
 }
+.page-about .activities_content {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+.page-about .activities_item {
+  width: 25%;
+  text-align: center;
+  margin-bottom: 70px;
+  cursor: pointer;
+}
+.page-about .activities_item-img {
+  height: 130px;
+  width: 130px;
+  margin: 0 auto;
+  padding-top: 15px;
+  text-align: center;
+  background-color: rgba(255,255,255,0);
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.page-about .activities_item-title {
+  margin-bottom: 22px;
+  color: #000;
+  font-size: 18px;
+  line-height: 24px;
+}
+.page-about .activities_item .img1, .activities_item .img2, .activities_item .img3, .activities_item .img4, .activities_item .img5, .activities_item .img6, .activities_item .img7 {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.page-about .activities_item .img1 {
+  background: url(../img/advert-icon1-on.png);
+}
+.page-about .activities_item .img2 {
+  background: url(../img/advert-icon2-on.png);
+}
+.page-about .activities_item .img3 {
+  background: url(../img/advert-icon3-on.png);
+}
+.page-about .activities_item .img4 {
+  background: url(../img/advert-icon4-on.png);
+}
+.page-about .activities_item .img5 {
+  background: url(../img/advert-icon5-on.png);
+}
+.page-about .activities_item .img6 {
+  background: url(../img/advert-icon6-on.png);
+}
+.page-about .activities_item .img7 {
+  background: url(../img/advert-icon7-on.png);
+}
+.aboutgraf {
+  background: url(../img/aboutgraf.png) no-repeat;
+  height: 502px;
+}
