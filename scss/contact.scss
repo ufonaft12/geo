@@ -3,6 +3,7 @@
 .contact-page {
   background: url(../img/contact-bg.png) no-repeat;
 }
+
 h3 {
   position: relative;
   padding-bottom: 50px;
@@ -30,11 +31,10 @@ h3 {
 /* start form */
 section.contact-form {
   padding-bottom: 100px;
-  padding-top: 490px;
 
   h2 {
-    margin-top: 100px;
-    margin-bottom: 87px;
+    margin-top: 60px;
+    margin-bottom: 133px;
     color: $text_dark;
     font-size: 35px;
     line-height: 27px;
@@ -44,7 +44,7 @@ section.contact-form {
     &:after {
       content: "";
       position: absolute;
-       top: 146px;
+       top: 105px;
       height: 2px;
       width: 150px;
       background: $link_active;

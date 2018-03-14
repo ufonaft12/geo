@@ -127,10 +127,25 @@
 		</div>
 		</div>
 	</header>
-	
+	<section class="breadcrumbs-box container">
+        <div class="col-md-12">
+            <div class="dimox_breadcrumbs">
+                <div class="breadcrumbs">
+                            <span>
+                                <a href="#">
+                                    <span>עמוד הבית</span>
+                                </a>
+                            </span>
+                    <span class="sep">|</span>
+                    <span class="current">צור קשר</span>
+                </div>
+            </div>
+        </div>
+    </section>
 	<section class="contact-form container">
 				<div class="row">
 					<div class="col-md-12">
+
 						<h2>צור קשר</h2>
                         <h3>קבוצת גיאוקרטוגרפיה</h3>
                         <p>דרך מנחם בגין , 154 ת"א מיקוד 64921 , בית קרדן</p>

@@ -19,10 +19,10 @@
 		<link rel="stylesheet" href="css/opensanshebrew.min.css">
 		<link rel="stylesheet" href="css/fontello.css">
 		<link rel="stylesheet" href="css/main.css">
-		<link rel="stylesheet" href="css/front-page.css">
+		<link rel="stylesheet" href="css/about.css">
 	</head>
 	
-	<body class="rtl home front-page">
+	<body class="rtl home about-page">
 		<header class="container-fluid">
 			<div class="row">
 				<div class="container">
@@ -121,13 +121,94 @@
 				</div>
 			</div> 
 	</header>
-	
-	
-	
-	
-	
-	
-	
+
+
+
+        <section class="breadcrumbs-box container">
+            <div class="col-md-12">
+                <div class="dimox_breadcrumbs">
+                    <div class="breadcrumbs">
+                            <span>
+                                <a href="#">
+                                    <span>עמוד הבית</span>
+                                </a>
+                            </span>
+                        <span class="sep">|</span>
+                        <span class="current">אודות</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+	<section class="container page-about">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>פרופיל חברה</h2>
+                <p>קבוצת גיאוקרטוגרפיה הינה מכון מחקר ייחודי, המכוון להעניק ללקוחותיו ייעוץ ופתרונות מקיפים, בהתאמה פרטנית, תוך שימוש בכלי מחקר מתקדמים ובלתי שגרתיים, המקנים ידע מעשי ותובנות.</p>
+                <p>בראש החברה עומדים פרופ' אבי דגני וד"ר רינה דגני, ולצדם צוות מקצועי ומיומן של חוקרים בכירים, בעלי תארים אקדמיים, מתחומים שונים, המופקדים על תחום המחקר, ומביאים לידי ביטוי את מומחיות החברה וייחודה המקצועי, ובהדגשה את יכולתה לשלב תחומי התמחות מגוונים, באופן אינטגרטיבי</p>
+                <p>גיאוקרטוגרפיה פועלת עבור לקוחותיה החל משלב זיהוי והגדרת הצרכים, גיבוש מתודולוגיות מתאימות, איסוף המידע, דרך ניתוחים מעמיקים של השוק, עולם התחרות והלקוחות, ועד בניית מודלים, התומכים בגיבוש אסטרטגיה שיווקית-עסקית, בתהליכי תכנון כלכלי וקבלת החלטות, בתהליכי מיתוג, ובליווי חברות וגופים שונים במגוון ענפי שוק ותחומי פעילות, כולל בשלבי ההטמעה והיישום</p>
+                <p>החברה פועלת במספר תחומים, ומעמידה לרשות הלקוח סל פתרונות מגוון:</p>
+            </div>
+            <div class="col-md-12 profile-box">
+                <div class="col-md-3 profile-box_item"></div>
+                <div class="col-md-3 profile-box_item"></div>
+                <div class="col-md-3 profile-box_item"></div>
+                <div class="col-md-3 profile-box_item"></div>
+            </div>
+            <div class="col-md-12 profile-box">
+                <div class="col-md-4 profile-box_item"></div>
+                <div class="col-md-4 profile-box_item"></div>
+                <div class="col-md-4 profile-box_item"></div>
+            </div>
+            <div class="col-md-12">
+                <p>היכולת המדעית והמקצועית מבוססת על 30 שנות ניסיון ופיתוח מחקרי-חלוצי, בקנה מידה בינלאומי, בתחומי האסטרטגיה של מידע, בגופים מסחריים, ציבוריים וחברתיים, יישום מערכות מידע גיאוגרפיות, מודלים ממוחשבים בחקר המרחב העירוני, האזורי והארצי, וכן חישובי פוטנציאל כלכלי-מסחרי. כל אלו משולבים כיום בכל תחומי הפעילות המחקרית-יישומית של החברה, בד בבד עם המשך השקעה במחקר ופיתוח.</p>
+                <p>מגוון רחב מאד של יכולות, כולן In House  - סקרים, איסוף מידע, מיפוי אנליטי, מתודולוגיות מגוונות וייחודיות, מקנה לחברה גמישות מחקרית ותפעולית, יכולת להפעיל תהליכי בקרת איכות ברמה גבוהה, וכמובן מהירות בביצוע. המתודולוגיות מאופיינות בתפיסה דינאמית, וביכולות תצוגה מגוונות.</p>
+                <p>לגיאוקרטוגרפיה מערך לוגיסטי חזק, הכולל יכולות רחבות בארגון ובניהול מערכי מחקר מורכבים, כולל באוכלוסיות מגזרים, ובמכלול הטכניקות הכמותיות והאיכותניות:</p>
+            </div>
+        </div>
+    </section>
+
+
+        <section class="container starlist-box">
+            <div class="col-md-12">
+                <ul>
+                    <li><a href="#">סקרים טלפוניים</a></li>
+                    <li><a href="#"> סקרים אינטרנטיים</a></li>
+                    <li><a href="#">לקוח סמוי </a></li>
+                    <li><a href="#">ראיונות פנים אל פנים - סקרי שטח</a></li>
+                    <li><a href="#">קבוצות מיקוד</a></li>
+                    <li><a href="#">ראיונות עומק</a></li>
+                    <li><a href="#">מיפוי אנליטי</a></li>
+                    <li><a href="#">ומגוון שיטות נוספות</a></li>
+                </ul>
+            </div>
+            <div class="col-md-12">
+                <div class="starlist-box-foot">
+                    <p>קבוצת גיאוקרטוגרפיה חברה ב- ESOMAR (האיגוד העולמי למחקרי שוק ודעת קהל) ובאיגוד מכוני המחקר הישראלי. פרופ' דגני משמש כנציג ESOMAR בישראל.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="container-fluid">
+
+        </section>
+
+        <section class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>על החברה</h2>
+                </div>
+                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item"></div>
+            </div>
+        </section>
 	
 	
 	

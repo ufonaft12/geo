@@ -184,6 +184,30 @@ header.fixed {
 
 /* end header */
 
+/* breadcrumbs */
+.breadcrumbs-box {
+	padding-top: 550px;
+
+	span {
+		font-size: 16px;
+		color: #989898;
+
+		a {
+			text-decoration: none;
+		}
+	}
+	.sep {
+		padding: 0 10px;
+	}
+	.current {
+		font-weight: bold;
+	}
+
+}
+
+/* end breadcrumbs-box */
+
+
 /* start footer */
 footer {
 		padding-top: 65px;
