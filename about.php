@@ -337,50 +337,52 @@
             </div>
 
             <div class="row">
-                <div class="team_box_content col-md-12">
+                <div class="col-md-12">
                     <div class="team-slider owl-carousel">
 
-                            <div class="team_box_item" style="background: url(img/method_img5.png);">
+                            <div class="team_box_item">
+                                <a href="#"><img src="img/teamimg3.png" alt=""><div class="team_box_item-more"></div></a>
                                 <div class="team_box_item-title">
-                                    <p>לקוח סמוי</p>
-                                    <div class="team_box_item-more"></div>
+                                     <p class="team_box_item_title">פרופ' אבי דגני</p>
+                                    <p>נשיא</p>
+
                                 </div>
                             </div>
 
-                            <div class="team_box_item" style="background: url(img/method_img5.png);">
-                                <div class="team_box_item-title">
-                                    <p>לקוח סמוי</p>
-                                    <div class="team_box_item-more"></div>
-                                </div>
-                            </div>
+                        <div class="team_box_item">
+                            <a href="#"><img src="img/teamimg2.png" alt=""><div class="team_box_item-more"></div></a>
+                            <div class="team_box_item-title">
+                                <p class="team_box_item_title">לירון פלדמן</p>
+                                <p>יו״ר</p>
 
-                            <div class="team_box_item" style="background: url(img/method_img5.png);">
-                                <div class="team_box_item-title">
-                                    <p>לקוח סמוי</p>
-                                    <div class="team_box_item-more"></div>
-                                </div>
                             </div>
+                        </div>
 
-                            <div class="team_box_item" style="background: url(img/method_img5.png);">
-                                <div class="team_box_item-title">
-                                    <p>לקוח סמוי</p>
-                                    <div class="team_box_item-more"></div>
-                                </div>
+                        <div class="team_box_item">
+                            <a href="#"><img src="img/teamimg1.png" alt=""><div class="team_box_item-more"></div></a>
+                            <div class="team_box_item-title">
+                                <p class="team_box_item_title">לירון פלדמן</p>
+                                <p>מנכ״ל</p>
                             </div>
+                        </div>
 
-                            <div class="team_box_item" style="background: url(img/method_img5.png);">
-                                <div class="team_box_item-title">
-                                    <p>לקוח סמוי</p>
-                                    <div class="team_box_item-more"></div>
-                                </div>
-                            </div>
+                        <div class="team_box_item">
+                            <a href="#"><img src="img/teamimg2.png" alt=""><div class="team_box_item-more"></div></a>
+                            <div class="team_box_item-title">
+                                <p class="team_box_item_title">ד"ר רינה דגני</p>
+                                <p>יו״ר</p>
 
-                            <div class="team_box_item" style="background: url(img/method_img5.png);">
-                                <div class="team_box_item-title">
-                                    <p>לקוח סמוי</p>
-                                    <div class="team_box_item-more"></div>
-                                </div>
                             </div>
+                        </div>
+
+                        <div class="team_box_item">
+                            <a href="#"><img src="img/teamimg1.png" alt=""><div class="team_box_item-more"></div></a>
+                            <div class="team_box_item-title">
+                                <p class="team_box_item_title">לירון פלדמן</p>
+                                <p>מנכ״ל</p>
+
+                            </div>
+                        </div>
 
 
                     </div>
