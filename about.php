@@ -272,6 +272,41 @@
                 <div class="col-md-6 company-item"></div>
             </div>
         </section>
+
+
+        <section class="methods container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>בעלי תפקידים</h2>
+                    <div class="row">
+                        <div class="methods_content col-md-12">
+
+                            <div class="methods_item" style="background: url(img/method_img5.png);">
+                                <div class="methods_item-title">
+                                    <p>לקוח סמוי</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="methods_item" style="background: url(img/method_img2.png);">
+                                <div class="methods_item-title">
+                                    <p>סקרים אינטרנטיים</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+
+                            <div class="methods_item" style="background: url(img/method_img1.png);">
+                                <div class="methods_item-title">
+                                    <p>סקרים טלפוניים</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div></div></div></section>
 	
 	
 	
