@@ -271,7 +271,7 @@
 
         </section>
 
-        <section class="container">
+        <section class="container company-items">
             <div class="row">
                 <div class="col-md-12">
                     <h2 class="title-box">על החברה</h2>
@@ -321,7 +321,14 @@
         </section>
 
 
-        <section class="methods container">
+
+
+
+
+
+
+
+        <section class="team_box container">
 
             <div class="row">
                 <div class="col-md-12">
@@ -330,58 +337,59 @@
             </div>
 
             <div class="row">
-                <div class="methods_content col-md-12">
+                <div class="team_box_content col-md-12">
                     <div class="team-slider owl-carousel">
-                        <div>
-                            <div class="methods_item" style="background: url(img/method_img5.png);">
-                                <div class="methods_item-title">
+
+                            <div class="team_box_item" style="background: url(img/method_img5.png);">
+                                <div class="team_box_item-title">
                                     <p>לקוח סמוי</p>
-                                    <div class="methods_item-more"></div>
+                                    <div class="team_box_item-more"></div>
                                 </div>
                             </div>
-                        </div>
-                        <div>
-                            <div class="methods_item" style="background: url(img/method_img5.png);">
-                                <div class="methods_item-title">
+
+                            <div class="team_box_item" style="background: url(img/method_img5.png);">
+                                <div class="team_box_item-title">
                                     <p>לקוח סמוי</p>
-                                    <div class="methods_item-more"></div>
+                                    <div class="team_box_item-more"></div>
                                 </div>
                             </div>
-                        </div>
-                        <div>
-                            <div class="methods_item" style="background: url(img/method_img5.png);">
-                                <div class="methods_item-title">
+
+                            <div class="team_box_item" style="background: url(img/method_img5.png);">
+                                <div class="team_box_item-title">
                                     <p>לקוח סמוי</p>
-                                    <div class="methods_item-more"></div>
+                                    <div class="team_box_item-more"></div>
                                 </div>
                             </div>
-                        </div>
-                        <div>
-                            <div class="methods_item" style="background: url(img/method_img5.png);">
-                                <div class="methods_item-title">
+
+                            <div class="team_box_item" style="background: url(img/method_img5.png);">
+                                <div class="team_box_item-title">
                                     <p>לקוח סמוי</p>
-                                    <div class="methods_item-more"></div>
+                                    <div class="team_box_item-more"></div>
                                 </div>
                             </div>
-                        </div>
-                        <div>
-                            <div class="methods_item" style="background: url(img/method_img5.png);">
-                                <div class="methods_item-title">
+
+                            <div class="team_box_item" style="background: url(img/method_img5.png);">
+                                <div class="team_box_item-title">
                                     <p>לקוח סמוי</p>
-                                    <div class="methods_item-more"></div>
+                                    <div class="team_box_item-more"></div>
                                 </div>
                             </div>
-                        </div>
-                        <div>
-                            <div class="methods_item" style="background: url(img/method_img5.png);">
-                                <div class="methods_item-title">
+
+                            <div class="team_box_item" style="background: url(img/method_img5.png);">
+                                <div class="team_box_item-title">
                                     <p>לקוח סמוי</p>
-                                    <div class="methods_item-more"></div>
+                                    <div class="team_box_item-more"></div>
                                 </div>
                             </div>
-                        </div>
+
 
                     </div>
+
+
+
+
+
+
                 </div>
             </div>
         </section>
@@ -447,27 +455,10 @@
 	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="js/beetle.js"></script>
         <script type="text/javascript">
-            $(document).ready(function() {
-                $(".team-slider").owlCarousel({
-                    loop:true,
-                    margin:10,
-                    responsiveClass:true,
-                    responsive:{
-                        0:{
-                            items:1,
-                            nav:true
-                        },
-                        600:{
-                            items:3,
-                            nav:false
-                        },
-                        1000:{
-                            items:3,
-                            nav:true,
-                            loop:false
-                        }
-                    }
-                });
+            $(window).on('load',function() {
+
+
+
 
             });
         </script>
