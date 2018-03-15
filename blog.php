@@ -156,7 +156,14 @@
                 <div class="row">
                     <div class="col-md-3 right-side">
                         <div class="blog-item">
-                            123
+                            <div class="dimox_breadcrumbs">
+                                <div class="breadcrumbs">
+                                    <span class="breadcrumbs-number">04</span>
+                                    <span><a href="#"><span>יולי </span></a></span>
+                                    <span class="sep">|</span>
+                                    <span>2016</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
