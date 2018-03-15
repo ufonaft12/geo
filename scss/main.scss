@@ -211,6 +211,27 @@ header.fixed {
 .text-center {
 	text-align: center;
 }
+.title-box {
+	margin-top: 100px;
+	margin-bottom: 60px;
+	color: $text_dark;
+	font-size: 35px;
+	line-height: 27px;
+	text-align: center;
+	font-weight: 700;
+	position: relative;
+
+	&:after {
+		content: "";
+		position: absolute;
+		bottom: -25px;
+		height: 2px;
+		width: 150px;
+		background: $link_active;
+		right: calc(50% - 75px);
+	}
+
+}
 
 /* start footer */
 footer {

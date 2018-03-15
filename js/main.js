@@ -50,7 +50,6 @@ jQuery(document).ready(function($){
             }
     });
 
-
     $(window).scroll(function(){
         if ($(window).scrollTop() < 50) {
             $('header').removeClass('fixed'); 
@@ -60,9 +59,6 @@ jQuery(document).ready(function($){
             $('header').addClass('fixed'); 
         }
     });
-
-
-
 
 
 });

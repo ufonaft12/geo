@@ -144,7 +144,7 @@
 	<section class="container page-about">
         <div class="row">
             <div class="col-md-12">
-                <h2>פרופיל חברה</h2>
+                <h2 class="title-box">פרופיל חברה</h2>
                 <p class="text-center">קבוצת גיאוקרטוגרפיה הינה מכון מחקר ייחודי, המכוון להעניק ללקוחותיו ייעוץ ופתרונות מקיפים, בהתאמה פרטנית, תוך שימוש בכלי מחקר מתקדמים ובלתי שגרתיים, המקנים ידע מעשי ותובנות.</p>
                 <p class="text-center">בראש החברה עומדים פרופ' אבי דגני וד"ר רינה דגני, ולצדם צוות מקצועי ומיומן של חוקרים בכירים, בעלי תארים אקדמיים, מתחומים שונים, המופקדים על תחום המחקר, ומביאים לידי ביטוי את מומחיות החברה וייחודה המקצועי, ובהדגשה את יכולתה לשלב תחומי התמחות מגוונים, באופן אינטגרטיבי</p>
                 <p class="text-center">גיאוקרטוגרפיה פועלת עבור לקוחותיה החל משלב זיהוי והגדרת הצרכים, גיבוש מתודולוגיות מתאימות, איסוף המידע, דרך ניתוחים מעמיקים של השוק, עולם התחרות והלקוחות, ועד בניית מודלים, התומכים בגיבוש אסטרטגיה שיווקית-עסקית, בתהליכי תכנון כלכלי וקבלת החלטות, בתהליכי מיתוג, ובליווי חברות וגופים שונים במגוון ענפי שוק ותחומי פעילות, כולל בשלבי ההטמעה והיישום</p>
@@ -234,23 +234,37 @@
 
 
         <section class="container starlist-box">
-            <div class="col-md-12">
-                <ul>
-                    <li><a href="#">סקרים טלפוניים</a></li>
-                    <li><a href="#"> סקרים אינטרנטיים</a></li>
-                    <li><a href="#">לקוח סמוי </a></li>
-                    <li><a href="#">ראיונות פנים אל פנים - סקרי שטח</a></li>
-                    <li><a href="#">קבוצות מיקוד</a></li>
-                    <li><a href="#">ראיונות עומק</a></li>
-                    <li><a href="#">מיפוי אנליטי</a></li>
-                    <li><a href="#">ומגוון שיטות נוספות</a></li>
-                </ul>
-            </div>
-            <div class="col-md-12">
-                <div class="starlist-box-foot">
-                    <p>קבוצת גיאוקרטוגרפיה חברה ב- ESOMAR (האיגוד העולמי למחקרי שוק ודעת קהל) ובאיגוד מכוני המחקר הישראלי. פרופ' דגני משמש כנציג ESOMAR בישראל.</p>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <ul class="starlist-box_items">
+                            <li><a href="#">סקרים טלפוניים</a></li>
+                            <li><a href="#"> סקרים אינטרנטיים</a></li>
+                            <li><a href="#">לקוח סמוי </a></li>
+                            <li><a href="#">ראיונות פנים אל פנים - סקרי שטח</a></li>
+                            <li><a href="#">קבוצות מיקוד</a></li>
+                            <li><a href="#">ראיונות עומק</a></li>
+                            <li><a href="#">מיפוי אנליטי</a></li>
+                            <li><a href="#">ומגוון שיטות נוספות</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-9">
+                        <img src="img/starbigimg.png" class="img-responsive" alt="">
+                    </div>
                 </div>
+
             </div>
+            <div class="container">
+            <div class="row starlist-box-foot">
+                    <div class="col-md-8"><p>קבוצת גיאוקרטוגרפיה חברה ב- ESOMAR (האיגוד העולמי למחקרי שוק ודעת קהל) ובאיגוד מכוני המחקר הישראלי. פרופ' דגני משמש כנציג ESOMAR בישראל.</p></div>
+                    <div class="col-md-4">
+                        <img src="img/logo1.png" alt="">
+                        <img src="img/logo2.png" alt="">
+                    </div>
+
+            </div>
+            </div>
+
         </section>
 
         <section class="container-fluid aboutgraf">
@@ -260,53 +274,117 @@
         <section class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>על החברה</h2>
+                    <h2 class="title-box">על החברה</h2>
                 </div>
-                <div class="col-md-6 company-item"></div>
-                <div class="col-md-6 company-item"></div>
-                <div class="col-md-6 company-item"></div>
-                <div class="col-md-6 company-item"></div>
-                <div class="col-md-6 company-item"></div>
-                <div class="col-md-6 company-item"></div>
-                <div class="col-md-6 company-item"></div>
-                <div class="col-md-6 company-item"></div>
+                <div class="col-md-6 company-item">
+                    החברה מעסיקה כ- 40 חוקרים ועובדים קבועים, בעלי ניסיון וותק מקצועי, ומתחומי מחקר ממקצועות משלימים, וביניהם: כלכלה, מנהל עסקים, תקשורת, פסיכולוגיה, מדעי החברה, סוציולוגיה ואנתרופולוגיה, תעשייה וניהול, מערכות מידע, סטטיסטיקה, גיאוגרפיה ועוד.
+                </div>
+                <div class="col-md-6 company-item">
+                    חברת גיאוקרטוגרפיה פועלת ממשרדי החברה בבית קרדן, המשתרעים על שטח של כ- 800 מ"ר וכוללים את משרדי ההנהלה והמחקר ואת המרכז הלוגיסטי למחקר. לחברה מרכז סקרים טלפוני נוסף, בעיר בלב הקמפוס של האוניברסיטה באריאל, המשתרע על שטח של כ- 140 מ"ר
+                </div>
+                <div class="col-md-6 company-item">
+                    כ- 300 סוקרים, מראיינים ומתשאלים, ברחבי הארץ, בעלי ניסיון, המוציאים אל הפועל את עבודת השדה (ראיונות עומק, תצפיות, תשאול טלפוני, ראיונות פנים אל פנים, בקרות לקוח סמוי וכו')
+                </div>
+                <div class="col-md-6 company-item">
+                    האגף הלוגיסטי למחקר, של קבוצת גיאוקרטוגרפיה, בעל יכולות רחבות בארגון ובניהול מערכי מחקר מורכבים, הכוללים ביצוע של סקרים טלפוניים וראיונות פנים אל פנים ברחבי ישראל - בכל האוכלוסיות, בכל המגזרים ובשפות המתאימות.
+                </div>
+                <div class="col-md-6 company-item">
+                    החברה מבצעת סקרים אינטרנטיים מבוססי פאנל אינטרנטי, וראיונות באמצעות דואר אלקטרוני, SMS, ומגוון שיטות דיגיטליות נוספות
+                </div>
+                <div class="col-md-6 company-item">
+                    הסקרים הטלפוניים נערכים ממרכז הסקרים הטלפוני הממוחשב (CATI), הכולל 90 עמדות טלפוניות
+                </div>
+                <div class="col-md-6 company-item">
+                    החברה מפעילה מערכת סקרים ממוחשבת לביצוע ראיונות פנים אל פנים.
+                </div>
+                <div class="col-md-6 company-item">
+                    קבוצות המיקוד נערכות במתקן מהמשוכללים בארץ, המאפשר צפייה בקבוצה מבעד לקיר זכוכית חד כיוונית.
+                </div>
             </div>
         </section>
 
 
-        <section class="methods container-fluid">
+        <section class="aboutview container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>בעלי תפקידים</h2>
-                    <div class="row">
-                        <div class="methods_content col-md-12">
+                    <h2 class="title-box">חזון</h2>
+                    <p class="text-center">להמשיך ולהיות חברה מובילה בתחומי פעילותה</p>
+                    <p class="text-center">חברה שהיא מותג בעל נכסיות גבוהה, בזיקה להון אינטלקטואלי גבוה </p>
+                    <p class="text-center">חברה בחזית הקידמה המקצועית בתחומי פעילותה</p>
+                    <p class="text-center">חברה המייצרת תועלת רבה ללקוחותיה</p>
+                    <p class="text-center">חברה שהיא בית לעובדיה, אשר מטפחת את המשאב האנושי שלה, כנכס עיקרי</p>
+                    <p class="text-center">חברה שעובדיה מסורים, כתפיסת עולם, למתן שירות מצוין ללקוחותיה</p>
+                    <p class="text-center">חברה ומותג שהם תו של אמינות מקצועית, שהמוניטין שלה מופץ על ידי לקוחות מרוצים</p>
+                    <p class="text-center">חברה שמשקיעה במחקר ופיתוח, כדי להמשיך ולהיות בחזית הפיתוח של מוצרים ושירותים בתחומי המחקר והשיווק</p>
+                </div>
+            </div>
+        </section>
 
+
+        <section class="methods container">
+
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="title-box">בעלי תפקידים</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="methods_content col-md-12">
+                    <div class="team-slider owl-carousel">
+                        <div>
                             <div class="methods_item" style="background: url(img/method_img5.png);">
                                 <div class="methods_item-title">
                                     <p>לקוח סמוי</p>
                                     <div class="methods_item-more"></div>
                                 </div>
                             </div>
-
-
-
-                            <div class="methods_item" style="background: url(img/method_img2.png);">
-                                <div class="methods_item-title">
-                                    <p>סקרים אינטרנטיים</p>
-                                    <div class="methods_item-more"></div>
-                                </div>
-                            </div>
-
-                            <div class="methods_item" style="background: url(img/method_img1.png);">
-                                <div class="methods_item-title">
-                                    <p>סקרים טלפוניים</p>
-                                    <div class="methods_item-more"></div>
-                                </div>
-                            </div>
-
-
                         </div>
-                    </div></div></div></section>
+                        <div>
+                            <div class="methods_item" style="background: url(img/method_img5.png);">
+                                <div class="methods_item-title">
+                                    <p>לקוח סמוי</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="methods_item" style="background: url(img/method_img5.png);">
+                                <div class="methods_item-title">
+                                    <p>לקוח סמוי</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="methods_item" style="background: url(img/method_img5.png);">
+                                <div class="methods_item-title">
+                                    <p>לקוח סמוי</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="methods_item" style="background: url(img/method_img5.png);">
+                                <div class="methods_item-title">
+                                    <p>לקוח סמוי</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="methods_item" style="background: url(img/method_img5.png);">
+                                <div class="methods_item-title">
+                                    <p>לקוח סמוי</p>
+                                    <div class="methods_item-more"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
 	
 	
 	
@@ -368,5 +446,30 @@
 	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="js/beetle.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $(".team-slider").owlCarousel({
+                    loop:true,
+                    margin:10,
+                    responsiveClass:true,
+                    responsive:{
+                        0:{
+                            items:1,
+                            nav:true
+                        },
+                        600:{
+                            items:3,
+                            nav:false
+                        },
+                        1000:{
+                            items:3,
+                            nav:true,
+                            loop:false
+                        }
+                    }
+                });
+
+            });
+        </script>
 </body>
 </html>
