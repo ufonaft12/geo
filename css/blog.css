@@ -41,12 +41,12 @@
     border-bottom: 1px solid #4c4d4f;
 }
 
-.s-blog .left-side .blog-item h5 {
+.s-blog .left-side-content h5 {
     font-size: 18px;
     color: #666;
 }
 
-.s-blog .left-side .blog-item p {
+.s-blog .left-side-content p {
     color: #d12331;
     font-size: 16px;
 }
@@ -92,7 +92,7 @@
 
 .s-blog .buttons .button {
     display: block;
-    margin: 0 0 100px 19px;
+    margin: 0 0 40px 19px;
     width: 228px;
     height: 51px;
     border: 1px solid #d12331;
@@ -115,6 +115,10 @@
     font-family: Linearicons-Free;
     content: "\e879";
     font-size: 30px;
+}
+
+.blog-item-wrap {
+    position: relative;
 }
 
 .blog-item .dimox_breadcrumbs {
@@ -173,4 +177,54 @@
     width: 50px;
     background-color: #d02230;
     margin-right: -12px;
+}
+
+.blog-item-wrap:before {
+    content: '';
+    height: 1px;
+    background-color: #4c4d4f;
+    width: 75%;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}
+
+.s-blog .wrapper-pagination {
+    margin-top: 30px;
+}
+
+.s-blog .wrapper-pagination ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+.s-blog .wrapper-pagination .pagination-item {
+    display: inline-block;
+    width: 35px;
+    line-height: 1;
+    text-align: center;
+    overflow: hidden;
+}
+
+.s-blog .wrapper-pagination .pagination-item .pagination-link {
+    display: inline-block;
+    width: 100%;
+    border-right: 1px solid #a0a0a0;
+    text-decoration: none;
+    font-style: normal;
+    color: #999;
+    font-size: 16px;
+}
+
+.s-blog .wrapper-pagination .button.right, .s-blog .wrapper-pagination .button.left {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    border: 1px solid #c5c5c5;
+}
+
+.s-blog .wrapper-pagination .button.right .fa:before, .s-blog .wrapper-pagination .button.left .fa:before {
+    font-family: 'fontawesome';
 }

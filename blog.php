@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/linearicons-free.min.css">
     <link rel="stylesheet" href="css/opensanshebrew.min.css">
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
     <link rel="stylesheet" href="css/fontello.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/blog.css">
@@ -198,6 +199,22 @@
                             </div>
                         </div>
                     </div>
+                </div>
+
+                <div class="wrapper-pagination">
+                    <ul class="pagination">
+                        <li class="pagination-item button right"><i class="fa fa-chevron-right"></i></li>
+
+                        <li class="pagination-item"><a href="#" class="pagination-link">1</a></li>
+                        <li class="pagination-item"><a href="#" class="pagination-link">2</a></li>
+                        <li class="pagination-item"><a href="#" class="pagination-link">3</a></li>
+                        <li class="pagination-item"><a href="#" class="pagination-link">4</a></li>
+                        <li class="pagination-item"><a href="#" class="pagination-link">5</a></li>
+                        <li class="pagination-item"><a href="#" class="pagination-link">6</a></li>
+                        <li class="pagination-item"><a href="#" class="pagination-link">7</a></li>
+
+                        <li class="pagination-item button left"></li>
+                    </ul>
                 </div>
             </div>
         </div>
