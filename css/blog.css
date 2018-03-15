@@ -1,0 +1,118 @@
+
+.blog-page {
+    background: url('../img/for_blog.jpg') no-repeat;
+}
+
+.s-blog {
+    background-color: #fff;
+    position: relative;
+}
+
+.s-blog .blog-item_head {
+    position: relative;
+}
+
+.s-blog .blog-item_head h2 {
+    text-align: center;
+    margin-bottom: 87px;
+    color: #4d4d4f;
+    font-size: 35px;
+    line-height: 27px;
+    font-weight: 700;
+}
+
+.s-blog .blog-item_head h2:after {
+    content: "";
+    position: absolute;
+    top: 50px;
+    height: 2px;
+    width: 150px;
+    background: #d12331;
+    right: calc(50% - 75px);
+}
+
+.s-blog .blog-item {
+    text-align: right;
+}
+
+.s-blog .left-side .blog-item .top-line {
+    border-top: 1px solid #4c4d4f;
+    padding: 30px 0;
+    border-bottom: 1px solid #4c4d4f;
+}
+
+.s-blog .left-side .blog-item h5 {
+    font-size: 18px;
+    color: #666;
+}
+
+.s-blog .left-side .blog-item p {
+    color: #d12331;
+    font-size: 16px;
+}
+
+.s-blog .center-block .item-img-wrap {
+}
+
+.item-img-wrap img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.s-blog .center-block .item-center-content {
+    margin-top: 30px;
+    color: #4d4d4f;
+}
+
+.s-blog .center-block .item-center-content span {
+    font-size: 16px;
+}
+
+.s-blog .center-block .item-center-content h5 {
+    font-size: 23px;
+    margin-bottom: 0;
+}
+
+.s-blog .center-block .item-center-content p {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+.s-blog .buttons {
+    overflow: hidden;
+    float: right;
+}
+
+.s-blog.banner .button {
+    margin-right: 0;
+}
+
+.s-blog .buttons {
+    display: inline-flex;
+}
+
+.s-blog .buttons .button {
+    display: block;
+    margin: 0 0 100px 19px;
+    width: 228px;
+    height: 51px;
+    border: 1px solid #d12331;
+    text-align: center;
+    line-height: 51px;
+    background-color: transparent;
+    color: #d12331;
+    text-decoration: none;
+    transition: all 0.3s ease-out;
+}
+
+.s-blog .buttons .button:hover {
+    background-color: #d12331;
+    color: #ffffff;
+}
+
+.s-blog .buttons .button:hover:before {
+    position: absolute;
+    margin-right: 100px;
+    font-family: Linearicons-Free;
+    content: "\e879";
+    font-size: 30px;
+}
