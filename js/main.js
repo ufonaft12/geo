@@ -72,6 +72,30 @@ jQuery(document).ready(function($){
         }
     });
 
+
+    $(".page-slider-box").owlCarousel({
+        //loop:true,
+        responsive:true,
+      //  navText : ["",""],
+        rtl:true,
+        margin:10,
+        responsive:{
+            0:{
+                items:1,
+                nav:true
+            },
+            600:{
+                items:1,
+                nav:false
+            },
+            1000:{
+                items:4,
+                nav:true,
+                loop:false
+            }
+        }
+    });
+
     $(window).scroll(function(){
         if ($(window).scrollTop() < 50) {
             $('header').removeClass('fixed'); 

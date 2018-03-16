@@ -7,7 +7,7 @@
 		<meta name="author" content="">
 		<link rel="icon" href="favicon.ico">
 		
-		<title>GEO - About</title>
+		<title>GEO - About 2</title>
 		
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -39,7 +39,7 @@
 					</div> 
 					
 					
-					<div class="row">
+				  <div class="row">
 						
 						<div class="header_menu col-md-auto">
 							<div class="search">
@@ -456,13 +456,5 @@
 	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="js/beetle.js"></script>
-        <script type="text/javascript">
-            $(window).on('load',function() {
-
-
-
-
-            });
-        </script>
 </body>
 </html>
