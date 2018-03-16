@@ -221,43 +221,6 @@
     </div>
 </section>
 
-<section class="form container">
-    <div class="row">
-        <div class="col-md-12">
-            <h2>צור קשר</h2>
-            <form action="/#wpcf7-f549-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-
-                <p>
-								<span class="wpcf7-form-control-wrap your-name">
-									<input name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="שם מלא *" type="text">
-								</span>
-
-                    <span class="wpcf7-form-control-wrap your-email">
-									<input name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid="false" placeholder="מייל *" type="email">
-								</span>
-
-                    <span class="wpcf7-form-control-wrap tel-928">
-									<input name="tel-928" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="טלפון *" type="tel">
-								</span>
-
-                    <span class="wpcf7-form-control-wrap text-893">
-									<input name="text-893" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="חברה" type="text">
-								</span>
-
-                    <span class="wpcf7-form-control-wrap your-message">
-									<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="תוכן ההודעה:"></textarea>
-								</span>
-                </p>
-
-                <p>
-                    <input value="שלח" class="wpcf7-form-control wpcf7-submit" type="submit">
-                    <span class="ajax-loader"></span>
-                </p>
-
-            </form>
-        </div>
-    </div>
-</section>
 
 <footer class="container-fluid">
     <div class="row">

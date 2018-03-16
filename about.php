@@ -22,7 +22,7 @@
 		<link rel="stylesheet" href="css/about.css">
 	</head>
 	
-	<body class="rtl home about-page">
+	<body class="rtl about-page">
 		<header class="container-fluid">
 			<div class="row">
 				<div class="container">

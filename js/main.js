@@ -67,7 +67,7 @@ jQuery(document).ready(function($){
             1000:{
                 items:3,
                 nav:true,
-                loop:false
+                loop:true
             }
         }
     });
@@ -76,7 +76,8 @@ jQuery(document).ready(function($){
     $(".page-slider-box").owlCarousel({
         //loop:true,
         responsive:true,
-      //  navText : ["",""],
+        navText : ["",""],
+        nav:false,        
         rtl:true,
         margin:10,
         responsive:{
@@ -86,15 +87,26 @@ jQuery(document).ready(function($){
             },
             600:{
                 items:1,
-                nav:false
+                nav:true
             },
             1000:{
                 items:4,
                 nav:true,
-                loop:false
+                loop:true
             }
         }
     });
+
+    var pageslider = $('.page-slider-box');
+    $(".page-slider-next").click(function(){
+            pageslider.trigger("next.owl.carousel");
+        });
+        $(".page-slider-prev").click(function(){
+            pageslider.trigger("prev.owl.carousel");
+    });
+    if ( $('.owl-item.active').index() === $('.owl-item').length - 1 ) {
+        it.carousel.trigger('to.owl.carousel', [0, 200]);
+    }
 
     $(window).scroll(function(){
         if ($(window).scrollTop() < 50) {

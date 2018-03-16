@@ -192,6 +192,10 @@
 	<section class="page-slider">
 		<div class="container">
 			<div class="row">
+				<div class="col-md-6"><div class="page-slider-next">1</div></div>
+				<div class="col-md-6"><div class="page-slider-prev">2</div></div>
+			</div>
+			<div class="row">
 				<div class="page-slider-box owl-carousel">
 
 					<div class="page-slider-box_item">
