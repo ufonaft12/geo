@@ -1,0 +1,76 @@
+.departament-adv-page {
+  background: url("/img/dep-adv.png");
+  background-size: contain;
+  background-position: top;
+  background-repeat: no-repeat; }
+  .departament-adv-page .breadcrumbs {
+    padding-top: 50px; }
+  .departament-adv-page .adv-text-block {
+    padding-top: 80px;
+    text-align: center; }
+    .departament-adv-page .adv-text-block .adv-title {
+      color: #4d4d4f;
+      font-size: 35px;
+      position: relative; }
+      .departament-adv-page .adv-text-block .adv-title:before {
+        position: absolute;
+        width: 150px;
+        height: 2px;
+        background: #d12331;
+        bottom: -15px;
+        content: '';
+        left: 50%;
+        transform: translate(-50%, 0); }
+    .departament-adv-page .adv-text-block-description {
+      color: #4d4d4f;
+      font-size: 17px;
+      padding-top: 20px;
+      line-height: 27px; }
+  .departament-adv-page .departament-adv-accordeon {
+    background: url("../img/dep-adv-accordeon.png"); }
+  .departament-adv-page .acc-item {
+    margin: auto;
+    transition-duration: 0.4s; }
+    .departament-adv-page .acc-item .col-md-10 {
+      margin: auto; }
+    .departament-adv-page .acc-item .acc-arrow svg path {
+      transition-duration: 0.4s; }
+    .departament-adv-page .acc-item:hover {
+      background: white; }
+      .departament-adv-page .acc-item:hover .acc-arrow svg path {
+        fill: blue !important; }
+  .departament-adv-page .acc-body {
+    display: none; }
+  .departament-adv-page .acc-heading {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 35px 0; }
+    .departament-adv-page .acc-heading .acc-text {
+      position: relative;
+      padding-right: 15px;
+      padding-top: 20px; }
+      .departament-adv-page .acc-heading .acc-text:before, .departament-adv-page .acc-heading .acc-text:after {
+        position: absolute;
+        content: '';
+        background: #d02230; }
+      .departament-adv-page .acc-heading .acc-text:before {
+        width: 65px;
+        height: 15px;
+        top: -5px;
+        right: 15px; }
+      .departament-adv-page .acc-heading .acc-text:after {
+        width: 80px;
+        height: 1px;
+        right: -65px;
+        top: -5px; }
+  .departament-adv-page .acc-arrow {
+    padding: 10px;
+    border: 1px solid #d02230;
+    display: flex;
+    align-items: center; }
+    .departament-adv-page .acc-arrow img {
+      max-width: 22px; }
+
+/*# sourceMappingURL=departament-advertising.css.map */

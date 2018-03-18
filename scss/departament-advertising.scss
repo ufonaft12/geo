@@ -1,0 +1,113 @@
+.departament-adv-page{
+  background: url('/img/dep-adv.png');
+  background-size: contain;
+  background-position: top;
+  background-repeat: no-repeat;
+
+  .breadcrumbs{
+    padding-top: 50px;
+  }
+
+  .adv-text-block{
+    padding-top: 80px;
+    text-align: center;
+
+    .adv-title{
+      color: #4d4d4f;
+      font-size: 35px;
+      position: relative;
+      &:before{
+       position: absolute;
+        width: 150px;
+        height: 2px;
+        background: #d12331;
+        bottom: -15px;
+        content: '';
+        left: 50%;
+        transform: translate(-50%,0);
+      }
+    }
+
+    &-description{
+      color: #4d4d4f;
+      font-size: 17px;
+      padding-top: 20px;
+      line-height: 27px;
+    }
+  }
+
+  .departament-adv-accordeon{
+    background: url('../img/dep-adv-accordeon.png');
+  }
+
+  .acc-item{
+    margin: auto;
+    transition-duration: 0.4s;
+
+    .col-md-10 {
+      margin: auto;
+    }
+
+    .acc-arrow svg path {
+      transition-duration: 0.4s;
+    }
+
+    &:hover {
+      background: white;
+
+      .acc-arrow svg path {
+        fill: blue !important;
+      }
+    }
+  }
+
+  .acc-body{
+    display: none;
+  }
+
+  .acc-heading{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 35px 0;
+
+     .acc-text {
+        position: relative;
+        padding-right: 15px;
+       padding-top: 20px;
+
+       &:before , &:after{
+         position: absolute;
+         content: '';
+         background: #d02230;
+       }
+
+       &:before{
+         width: 65px;
+         height: 15px;
+         top: -5px;
+         right: 15px;
+       }
+
+       &:after {
+         width: 80px;
+         height: 1px;
+         right: -65px;
+         top: -5px;
+       }
+      }
+  }
+
+  .acc-arrow{
+    padding: 10px;
+    border: 1px solid #d02230;
+    display: flex;
+    align-items: center;
+
+    img{
+      max-width: 22px;
+    }
+  }
+}
+
