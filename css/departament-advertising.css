@@ -3,12 +3,14 @@
   background-size: contain;
   background-position: top;
   background-repeat: no-repeat; }
+  .departament-adv-page #menu_header .active {
+    color: #d12331; }
   .departament-adv-page header {
     background: white; }
   .departament-adv-page .breadcrumbs {
     padding-top: 50px; }
   .departament-adv-page .adv-text-block {
-    padding-top: 80px;
+    padding-top: 40px;
     text-align: center; }
     .departament-adv-page .adv-text-block .adv-title {
       color: #4d4d4f;
@@ -27,11 +29,13 @@
       color: #4d4d4f;
       font-size: 17px;
       padding-top: 20px;
-      line-height: 27px; }
+      line-height: 27px;
+      padding-bottom: 70px; }
   .departament-adv-page .departament-adv-accordeon {
     background: url("../img/dep-adv-accordeon.png") no-repeat;
     background-size: cover;
-    background-attachment: fixed; }
+    background-attachment: fixed;
+    padding: 90px 0; }
   .departament-adv-page .acc-item {
     margin: auto;
     transition-duration: 0.4s; }
@@ -84,7 +88,7 @@
     padding: 35px 0; }
     .departament-adv-page .acc-heading .acc-text {
       position: relative;
-      padding-right: 15px;
+      padding-right: 60px;
       padding-top: 20px;
       font-weight: bold;
       font-size: 19px;
@@ -97,11 +101,11 @@
         width: 65px;
         height: 15px;
         top: -5px;
-        right: 15px; }
+        right: 65px; }
       .departament-adv-page .acc-heading .acc-text:after {
         width: 80px;
         height: 1px;
-        right: -65px;
+        right: -15px;
         top: -5px; }
   .departament-adv-page .acc-arrow {
     padding: 10px;

@@ -1,9 +1,9 @@
 $red-color: #d12331;
 $text-color: #4d4d4f;
 
-.departament-adv-page{
+.departament-urban-page{
 
-   #menu_header{
+  #menu_header{
     .active{
         color: $red-color;
     }
@@ -13,7 +13,7 @@ $text-color: #4d4d4f;
     background: white;
   }
 
-  background: url('/img/dep-adv.png');
+  background: url('/img/dep-urban.png');
   background-size: contain;
   background-position: top;
   background-repeat: no-repeat;
@@ -52,7 +52,7 @@ $text-color: #4d4d4f;
   }
 
   .departament-adv-accordeon{
-    background: url('../img/dep-adv-accordeon.png') no-repeat;
+    background: url('../img/dep-urban-acc.png') no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding: 90px 0;
@@ -177,5 +177,65 @@ $text-color: #4d4d4f;
       max-width: 22px;
     }
   }
+    .eco-bottom-text{
+      padding: 80px 0;
+      .eco-bottom-text-title{
+        color: $text-color;
+        font-size: 23px;
+        font-weight:bold;
+        position: relative;
+
+        &:before , &:after{
+             position: absolute;
+             content: '';
+             background: $red-color;
+           }
+
+           &:before{
+             width: 65px;
+             height: 15px;
+             top: -20px;
+             right: 0px;
+           }
+
+           &:after {
+             width: 80px;
+             height: 1px;
+             right: -80px;
+             top: -20px;
+           }
+        }
+
+
+
+      .row{
+        margin-top: 15px;
+
+        &.margin{
+          margin-top: 80px;
+        }
+      }
+
+      .img-responsive{
+        max-width: 100%;
+      }
+
+      .eco-bottom-text-desc{
+        color: $text-color;
+        font-size: 16px;
+        padding: 40px 0;
+      }
+
+      .eco-home-title{
+        color: $red-color;
+        padding: 4px 0;
+        font-size: 16px;
+      }
+
+      .eco-home-desc{
+        font-weight: 300;
+        font-size: 13px;
+      }
+    }
 }
 
