@@ -7,7 +7,7 @@
 		<meta name="author" content="">
 		<link rel="icon" href="favicon.ico">
 
-		<title>GEO - departament advertising</title>
+		<title>GEO - departament economy</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -19,10 +19,10 @@
 		<link rel="stylesheet" href="css/opensanshebrew.min.css">
 		<link rel="stylesheet" href="css/fontello.css">
 		<link rel="stylesheet" href="css/main.css">
-		<link rel="stylesheet" href="css/departament-advertising.css">
+		<link rel="stylesheet" href="css/departament-economy.css">
 	</head>
 
-	<body class="rtl departament-adv-page">
+	<body class="rtl departament-economy-page">
 	<header class="container-fluid">
 			<div class="row">
 				<div class="container">
@@ -135,11 +135,11 @@
 	                <span class="sep">|</span>
                     <span>
 	                    <a href="#">
-	                        <span> תחומי פעילות</span>
+	                        <span>  תחומי פעילות</span>
 	                    </a>
 	                </span>
                     <span class="sep">|</span>
-	                <span class="current"> שיווק, פרסום ודעת קהל</span>
+	                <span class="current"> התכנות כלכלית ופוטנציאל שוק</span>
 	            </div>
 	        </div>
 	    </div>
@@ -149,22 +149,20 @@
     <section class = "container adv-text-block">
         <div class = "col-md-12">
             <h2 class = "adv-title">
-                    שיווק, פרסום ודעת קהל
+                    התכנות כלכלית ופוטנציאל שוק
             </h2>
 
             <div class = "adv-text-block-description">
                 <p>
-                    גיאוקרטוגרפיה מעמידה לרשות לקוחותיה מגוון רחב של פתרונות מחקר שיווקי, ככלי תומך החלטות, בגיבוש אסטרטגיה שיווקית-תקשורתית: מודלים לבחינת מעמד מותג ונכסיות מותג, בחינת קונספטים, בחינת פרזנטורים, מיפוי תהליך קבלת החלטות של צרכנית, אפקטיביות פרסום, ניתוח עולם התחרות ועוד.
+                  המחלקה הכלכלית מתמחה במחקרי היתכנות כלכלית-שיווקית ופוטנציאל שוק לפרויקטים של מגורים, מסחר ותעסוקה. המחלקה כוללת צוות מומחים בינתחומי (כלכלה, מנהל עסקים, תכנון אורבני, שיווק, שמאות ועוד), המסתייעים במערכות מידע וכלי מחקר מגוונים, העומדים לרשותם החברה.
                 </p>
 
                 <p>
-                    המחקרים נערכים בקרב מגוון מגזרי האוכלוסייה השונים, כולל אוכלוסיות מקצועיות, תוך התאמת המתודולוגיה, שיטת הדגימה ושיטת התשאול לקהלי המטרה ולמטרת המחקר.
-ע
+המחלקה הכלכלית מציעה ליזמים, חברות נדל"ן, רשתות קמעונאיות וגופי תכנון שונים, פתרונות וכלים בתחומי פעילות מגוונים, , תוך התייחסות אסטרטגית ובחינה של פוטנציאל כלכלי וביקושים, והיא פועלת בישראל ובחו"ל במגוון תחומים והתמחויות: חישובי פדיון צפוי, ייזום רעיוני ושימושים אופטימליים לנכסי נדל"ן, אומדני פוטנציאל שוק, אסטרטגיית פריסת סניפים, תכנון אסטרטגי של תמהילי בנייה, תמהילי מוצרים, הקצאת שטחים לענפים, החדרת גופים ישראליים לחו"ל וייעוץ בהחדרת חברות רב לאומיות לישראל
                 </p>
 
                 <p>
-                    עבודת המחקר מאופיינת בניתוחים ייחודיים וביניהם: ניתוח סגמנטלי ומגזרי, ניתוח גיאוגרפי וניתוח סוציו-אקונומי מורחב, המאפשרים הפקת משמעותיות ומסקנות אופרטיביות, כחלק מתהליך מובנה שמטרתו ליצר ערך ללקוח.
-                </p>
+תוצרי המחקר מספקים כלים תומכים בקבלת החלטות עסקיות, קבלת מימון וגיבוש תכנית עסקית ותכנית שיווק.                </p>
             </div>
         </div>
     </section>
@@ -176,8 +174,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-                            מעמד שיווקי ונכסיות מותג (Brand Equity)
-
+                          נדל"ן מניב
                         </div>
                         <div class = "acc-arrow">
                             <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
@@ -203,8 +200,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-                           פתרונות ממוקדי שיווק, פרסום ומכירות
-
+נדל"ן למגורים
                         </div>
                         <div class = "acc-arrow">
                             <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
@@ -240,7 +236,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-        מסגמנטציה לאסטרטגיה
+נדל"ן למגורים
                         </div>
                         <div class = "acc-arrow">
                             <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
@@ -266,7 +262,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-                        התמחות במגזרים
+חניונים ופתרונות חנייה
                         </div>
                         <div class = "acc-arrow">
                             <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
@@ -292,7 +288,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-                        תחומי התמחות ופעילות נוספים:
+                      תכנון תחבורה
                         </div>
                         <div class = "acc-arrow">
                             <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
@@ -345,6 +341,196 @@
                         <div class = "acc-body-text">
 מיפוי אנליטי של תוצאות סקרים, תרגום של נתונים לממצאים ויזואליים, ברזולוציה של בתים במרחב.  המשך לקרוא
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class = "acc-item">
+            <div class = "container justify-content-md-center">
+                <div class = "col-md-10">
+                    <div class = "acc-heading">
+                        <div class = "acc-text">
+התכנות ופוטנציאל שוק לשירותים ומוצרים
+
+                        </div>
+                        <div class = "acc-arrow">
+                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
+                                <g>
+                                    <g id="_x31_0_34_">
+                                        <g>
+                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class = "acc-body">
+לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class = "acc-item">
+            <div class = "container justify-content-md-center">
+                <div class = "col-md-10">
+                    <div class = "acc-heading">
+                        <div class = "acc-text">
+חוות דעת כלכלית ותמיכה בהתנגדויות
+
+                        </div>
+                        <div class = "acc-arrow">
+                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
+                                <g>
+                                    <g id="_x31_0_34_">
+                                        <g>
+                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class = "acc-body">
+לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class = "acc-item">
+            <div class = "container justify-content-md-center">
+                <div class = "col-md-10">
+                    <div class = "acc-heading">
+                        <div class = "acc-text">
+תחומי פעילות נוספים
+                        </div>
+                        <div class = "acc-arrow">
+                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
+                                <g>
+                                    <g id="_x31_0_34_">
+                                        <g>
+                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class = "acc-body">
+לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class = "eco-bottom-text">
+        <div class = "container">
+            <div class = "col-md-12">
+                <div class = "eco-bottom-text-title">
+                    דוגמאות לפרוייקטים
+                </div>
+                <div class = "eco-bottom-text-desc">
+                    החטיבה הכלכלית פועלת גם בישראל וגם בחו"ל, לדוגמה: היתכנות כלכלית לפתיחה של הקניון הגדול הראשון ברבת עמון, בקזחסטן (מפעלי תעשייה), בברצלונה -היתכנות כלכלית למרכזי מסחר ובידור, ברומניה (נדל"ן למגורים ודיור מוגן), קניון בקפריסין, סניפי הום סנטר ביוון, היתכנות לפרויקט נדל"ן מניב מסחרי ייחודי בסין וכו'.
+
+                </div>
+            </div>
+
+            <div class = "row">
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
+                    </div>
+                </div>
+
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
+                    </div>
+                </div>
+
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
+                    </div>
+                </div>
+
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
+                    </div>
+                </div>
+
+            </div>
+
+            <div class = "row margin">
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
+                    </div>
+                </div>
+
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
+                    </div>
+                </div>
+
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
+                    </div>
+                </div>
+
+                <div class = "col-md-3">
+                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <div class = "eco-home-title">
+                        שם המקום
+
+                    </div>
+                    <div class = "eco-home-desc">
+                        שם הפרוייקט
                     </div>
                 </div>
             </div>

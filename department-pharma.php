@@ -7,7 +7,7 @@
 		<meta name="author" content="">
 		<link rel="icon" href="favicon.ico">
 
-		<title>GEO - departament advertising</title>
+		<title>GEO - departament information</title>
 
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -19,10 +19,10 @@
 		<link rel="stylesheet" href="css/opensanshebrew.min.css">
 		<link rel="stylesheet" href="css/fontello.css">
 		<link rel="stylesheet" href="css/main.css">
-		<link rel="stylesheet" href="css/departament-advertising.css">
+		<link rel="stylesheet" href="css/department-pharma.css">
 	</head>
 
-	<body class="rtl departament-adv-page">
+	<body class="rtl departament-pharma-page">
 	<header class="container-fluid">
 			<div class="row">
 				<div class="container">
@@ -139,7 +139,7 @@
 	                    </a>
 	                </span>
                     <span class="sep">|</span>
-	                <span class="current"> שיווק, פרסום ודעת קהל</span>
+	                <span class="current">פארמה ורפואה</span>
 	            </div>
 	        </div>
 	    </div>
@@ -149,22 +149,17 @@
     <section class = "container adv-text-block">
         <div class = "col-md-12">
             <h2 class = "adv-title">
-                    שיווק, פרסום ודעת קהל
-            </h2>
+פארמה ורפואה            </h2>
 
             <div class = "adv-text-block-description">
                 <p>
-                    גיאוקרטוגרפיה מעמידה לרשות לקוחותיה מגוון רחב של פתרונות מחקר שיווקי, ככלי תומך החלטות, בגיבוש אסטרטגיה שיווקית-תקשורתית: מודלים לבחינת מעמד מותג ונכסיות מותג, בחינת קונספטים, בחינת פרזנטורים, מיפוי תהליך קבלת החלטות של צרכנית, אפקטיביות פרסום, ניתוח עולם התחרות ועוד.
-                </p>
+המחלקה הרפואית בגיאוקרטוגרפיה מתמחה במחקרים אפידמיולוגיים ומחקרי שיווק רפואיים, ומספקת שירותי מחקר למרבית חברות התרופות הבינלאומיות והמקומיות בישראל, ולגופים מענפי הבריאות והרפואה.
+               </p>
 
                 <p>
-                    המחקרים נערכים בקרב מגוון מגזרי האוכלוסייה השונים, כולל אוכלוסיות מקצועיות, תוך התאמת המתודולוגיה, שיטת הדגימה ושיטת התשאול לקהלי המטרה ולמטרת המחקר.
-ע
+המחלקה מבצעת מחקרים בקרב רופאים, רוקחים, סגל רפואי ולקוחות קצה (מטופלים והציבור הרחב), ומפעילה מגוון רחב של מודלים ושיטות מחקר איכותני וכמותי, הן בקרב הציבור הרחב והן בקרב חברי סגל רפואי ואוכלוסיות מקצועיות כמו רופאים, רוקחים, אחיות וכו'.
                 </p>
 
-                <p>
-                    עבודת המחקר מאופיינת בניתוחים ייחודיים וביניהם: ניתוח סגמנטלי ומגזרי, ניתוח גיאוגרפי וניתוח סוציו-אקונומי מורחב, המאפשרים הפקת משמעותיות ומסקנות אופרטיביות, כחלק מתהליך מובנה שמטרתו ליצר ערך ללקוח.
-                </p>
             </div>
         </div>
     </section>
@@ -176,9 +171,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-                            מעמד שיווקי ונכסיות מותג (Brand Equity)
-
-                        </div>
+ניסיון רב במגוון שטחים תרפאוטיים                        </div>
                         <div class = "acc-arrow">
                             <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
                                 <g>
@@ -203,7 +196,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-                           פתרונות ממוקדי שיווק, פרסום ומכירות
+מוצרים ושירותים לשוק הפרמצבטי
 
                         </div>
                         <div class = "acc-arrow">
@@ -240,7 +233,7 @@
                 <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
-        מסגמנטציה לאסטרטגיה
+מוצרים ושירותים לשוק ה-OTC
                         </div>
                         <div class = "acc-arrow">
                             <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
@@ -261,95 +254,10 @@
                 </div>
             </div>
         </div>
-        <div class = "acc-item">
-            <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
-                    <div class = "acc-heading">
-                        <div class = "acc-text">
-                        התמחות במגזרים
-                        </div>
-                        <div class = "acc-arrow">
-                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
-                                <g>
-                                    <g id="_x31_0_34_">
-                                        <g>
-                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
-                                        </g>
-                                    </g>
-                                </g>
-                            </svg>
-                        </div>
-                    </div>
-                    <div class = "acc-body">
-לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.
 
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class = "acc-item">
-            <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
-                    <div class = "acc-heading">
-                        <div class = "acc-text">
-                        תחומי התמחות ופעילות נוספים:
-                        </div>
-                        <div class = "acc-arrow">
-                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
-                                <g>
-                                    <g id="_x31_0_34_">
-                                        <g>
-                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
-                                        </g>
-                                    </g>
-                                </g>
-                            </svg>
-                        </div>
-                    </div>
-                    <div class = "acc-body">
-                       <div class = "acc-body-heading">
-                            מחקרים חברתיים
-                       </div>
-                        <div class = "acc-body-text">
-סקרים ומחקרים עבור עמותות וארגונים הפועלים בתחומי חברה, קהילה, תעסוקה, התנדבות, אוכלוסיות מוחלשות ועוד. מחקרים עבור משרדי ממשלה וגופים ציבוריים בתחומי חינוך, רווחה, בריאות, התמכרויות ועוד.
-                        </div>
-                        <div class = "acc-body-heading">
-                           סקרים פוליטיים
-                       </div>
-                        <div class = "acc-body-text">
-                            סקרי בחירות ברשויות המקומיות ובבחירות לכנסת, ליווי מועמדים בתהליכי קבלת החלטות ובגיבוש האסטרטגיה, תחזיות מנד"טים וכוונות הצבעה.
-                        </div>
-                        <div class = "acc-body-heading">
-            מחקרי אריזות
-                       </div>
-                        <div class = "acc-body-text">
-                         בחינת אריזות חדשות, התאמת האריזה למותג, לקטגוריה ולסדרת מוצרים, אטרקטיביות האריזה בהעברת מסרים ובהנעה לרכישה, בולטות על המדף באמצעות Heat-Map ועוד.
-                        </div>
-                        <div class = "acc-body-heading">
-            מחקר משפטי
-                       </div>
-                        <div class = "acc-body-text">
-סימני מסחר, הטעיית צרכנים, כתיבת חוות דעת משפטיות, ליווי משרדי עורכי דין והופעה בבית משפט
-                        </div>
-
-                        <div class = "acc-body-heading">
-            מחקרים במגזר העסקי
-                       </div>
-                        <div class = "acc-body-text">
-                        בקרב מקבלי החלטות בעסקים וקהלים מקצועיים, מנהלי משאבי אנוש, תחום ההיי-טק, ומגזרים עסקיים נוספים בהתאם לצרכי הלקוח
-                        </div>
-
-                        <div class = "acc-body-heading">
-     סקר +
-                       </div>
-                        <div class = "acc-body-text">
-מיפוי אנליטי של תוצאות סקרים, תרגום של נתונים לממצאים ויזואליים, ברזולוציה של בתים במרחב.  המשך לקרוא
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </section>
+
+
 
 
     <footer class="container-fluid">
