@@ -55,7 +55,10 @@
     background: white; }
   .departament-economy-page .acc-body {
     padding: 20px 25px;
-    display: none; }
+    display: none;
+    margin-top: -35px; }
+    .departament-economy-page .acc-body-heading:first-child {
+      margin-top: 0 !important; }
     .departament-economy-page .acc-body-heading {
       color: #d12331;
       margin-top: 35px;
@@ -88,7 +91,7 @@
     padding: 35px 0; }
     .departament-economy-page .acc-heading .acc-text {
       position: relative;
-      padding-right: 60px;
+      padding-right: 65px;
       padding-top: 20px;
       font-weight: bold;
       font-size: 19px;
@@ -137,6 +140,8 @@
         top: -20px; }
     .departament-economy-page .eco-bottom-text .row {
       margin-top: 15px; }
+      .departament-economy-page .eco-bottom-text .row a {
+        text-decoration: none; }
       .departament-economy-page .eco-bottom-text .row.margin {
         margin-top: 80px; }
     .departament-economy-page .eco-bottom-text .img-responsive {
@@ -151,6 +156,7 @@
       font-size: 16px; }
     .departament-economy-page .eco-bottom-text .eco-home-desc {
       font-weight: 300;
-      font-size: 13px; }
+      font-size: 13px;
+      color: #4d4d4f; }
 
 /*# sourceMappingURL=departament-economy.css.map */

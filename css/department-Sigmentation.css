@@ -10,7 +10,7 @@
   .departament-service-page .breadcrumbs {
     padding-top: 50px; }
   .departament-service-page .adv-text-block {
-    padding-top: 40px;
+    padding-top: 80px;
     text-align: center; }
     .departament-service-page .adv-text-block .adv-title {
       color: #4d4d4f;
@@ -55,7 +55,10 @@
     background: white; }
   .departament-service-page .acc-body {
     padding: 20px 25px;
-    display: none; }
+    display: none;
+    margin-top: -35px; }
+    .departament-service-page .acc-body-heading:first-child {
+      margin-top: 0 !important; }
     .departament-service-page .acc-body-heading {
       color: #d12331;
       margin-top: 35px;
@@ -88,7 +91,7 @@
     padding: 35px 0; }
     .departament-service-page .acc-heading .acc-text {
       position: relative;
-      padding-right: 60px;
+      padding-right: 65px;
       padding-top: 20px;
       font-weight: bold;
       font-size: 19px;
@@ -151,6 +154,7 @@
       font-size: 16px; }
     .departament-service-page .eco-bottom-text .eco-home-desc {
       font-weight: 300;
-      font-size: 13px; }
+      font-size: 13px;
+      color: #4d4d4f; }
 
 /*# sourceMappingURL=department-Sigmentation.css.map */

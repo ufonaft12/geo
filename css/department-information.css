@@ -55,6 +55,7 @@
     background: white; }
   .departament-information-page .acc-body {
     padding: 20px 25px;
+    margin-top: -35px;
     display: none; }
     .departament-information-page .acc-body-heading {
       color: #d12331;
@@ -88,7 +89,7 @@
     padding: 35px 0; }
     .departament-information-page .acc-heading .acc-text {
       position: relative;
-      padding-right: 15px;
+      padding-right: 65px;
       padding-top: 20px;
       font-weight: bold;
       font-size: 19px;
@@ -101,11 +102,11 @@
         width: 65px;
         height: 15px;
         top: -5px;
-        right: 15px; }
+        right: 65px; }
       .departament-information-page .acc-heading .acc-text:after {
         width: 80px;
         height: 1px;
-        right: -65px;
+        right: -15px;
         top: -5px; }
   .departament-information-page .acc-arrow {
     padding: 10px;
@@ -151,6 +152,7 @@
       font-size: 16px; }
     .departament-information-page .eco-bottom-text .eco-home-desc {
       font-weight: 300;
-      font-size: 13px; }
+      font-size: 13px;
+      color: #4d4d4f; }
 
 /*# sourceMappingURL=department-information.css.map */

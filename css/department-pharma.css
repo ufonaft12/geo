@@ -55,7 +55,8 @@
     background: white; }
   .departament-pharma-page .acc-body {
     padding: 20px 25px;
-    display: none; }
+    display: none;
+    margin-top: -35px; }
     .departament-pharma-page .acc-body-heading {
       color: #d12331;
       margin-top: 35px;
@@ -88,7 +89,7 @@
     padding: 35px 0; }
     .departament-pharma-page .acc-heading .acc-text {
       position: relative;
-      padding-right: 60px;
+      padding-right: 65px;
       padding-top: 20px;
       font-weight: bold;
       font-size: 19px;
@@ -151,6 +152,7 @@
       font-size: 16px; }
     .departament-pharma-page .eco-bottom-text .eco-home-desc {
       font-weight: 300;
-      font-size: 13px; }
+      font-size: 13px;
+      color: #4d4d4f; }
 
 /*# sourceMappingURL=department-pharma.css.map */
