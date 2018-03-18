@@ -124,7 +124,8 @@
 
 
 	<section class="breadcrumbs-box container">
-	    <div class="col-md-12">
+	    <div class = "row">
+            <div class="col-md-12">
 	        <div class="dimox_breadcrumbs">
 	            <div class="breadcrumbs">
 	                <span>
@@ -143,11 +144,13 @@
 	            </div>
 	        </div>
 	    </div>
+        </div>
 	</section>
 
     <!-- שיווק, פרסום ודעת קהל -->
     <section class = "container adv-text-block">
-        <div class = "col-md-12">
+        <div class = "row">
+<div class = "col-md-12">
             <h2 class = "adv-title">
                    תכנון אורבאני
             </h2>
@@ -163,13 +166,15 @@
 המחלקה מספקת מעטפת שירותים רחבה ומלאה לגופיים מוסדיים ופרטיים הן ברמה האסטרטגית והן ברמה הפרטנית.                 </p>
             </div>
         </div>
+        </div>
     </section>
 
     <!-- Accordeon -->
     <section class = "departament-adv-accordeon">
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 פרוגרמות לצורכי ציבור וכושר נשיאה
@@ -191,12 +196,14 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
 
         <div class = "acc-item">
         <div class = "container justify-content-md-center">
-            <div class = "col-md-10">
+            <div class = "row">
+                <div class = "col-md-10">
                 <div class = "acc-heading">
                     <div class = "acc-text">
                         פרוגרמות כלכליות: מסחר תעסוקה וכלכלת הישוב                        </div>
@@ -217,12 +224,14 @@
 
                 </div>
             </div>
+            </div>
         </div>
     </div>
 
         <div class = "acc-item">
         <div class = "container justify-content-md-center">
-            <div class = "col-md-10">
+            <div class = "row">
+                <div class = "col-md-10">
                 <div class = "acc-heading">
                     <div class = "acc-text">
                       התחדשות עירונית                        </div>
@@ -243,12 +252,14 @@
 
                 </div>
             </div>
+            </div>
         </div>
     </div>
 
         <div class = "acc-item">
         <div class = "container justify-content-md-center">
-            <div class = "col-md-10">
+            <div class = "row">
+                <div class = "col-md-10">
                 <div class = "acc-heading">
                     <div class = "acc-text">
                   חוות דעת אורבניות                        </div>
@@ -269,12 +280,14 @@
 
                 </div>
             </div>
+            </div>
         </div>
     </div>
 
         <div class = "acc-item">
         <div class = "container justify-content-md-center">
-            <div class = "col-md-10">
+            <div class = "row">
+                <div class = "col-md-10">
                 <div class = "acc-heading">
                     <div class = "acc-text">
                שיתוף הציבור
@@ -296,12 +309,14 @@
 
                 </div>
             </div>
+            </div>
         </div>
     </div>
 
         <div class = "acc-item">
         <div class = "container justify-content-md-center">
-            <div class = "col-md-10">
+            <div class = "row">
+                <div class = "col-md-10">
                 <div class = "acc-heading">
                     <div class = "acc-text">
 ייעוץ כלכלי ושמאות
@@ -323,12 +338,14 @@
 
                 </div>
             </div>
+            </div>
         </div>
     </div>
 
         <div class = "acc-item">
         <div class = "container justify-content-md-center">
-            <div class = "col-md-10">
+            <div class = "row">
+                <div class = "col-md-10">
                 <div class = "acc-heading">
                     <div class = "acc-text">
 מחקרים לניתוח מגמות אורבניות                        </div>
@@ -349,12 +366,14 @@
 
                 </div>
             </div>
+            </div>
         </div>
     </div>
 
         <div class = "acc-item">
         <div class = "container justify-content-md-center">
-            <div class = "col-md-10">
+            <div class = "row">
+                <div class = "col-md-10">
                 <div class = "acc-heading">
                     <div class = "acc-text">
 תכניות אסטרטגיות למערכות חינוך
@@ -376,6 +395,7 @@
 
                 </div>
             </div>
+            </div>
         </div>
     </div>
 
@@ -384,7 +404,8 @@
 
     <section class = "eco-bottom-text">
         <div class = "container">
-            <div class = "col-md-12">
+            <div class = "row">
+                <div class = "col-md-12">
                 <div class = "eco-bottom-text-title">
 דוגמאות לפרוייקטים                </div>
                 <div class = "eco-bottom-text-desc">
@@ -392,10 +413,12 @@
 
                 </div>
             </div>
+            </div>
 
             <div class = "row">
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -403,10 +426,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -414,10 +439,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -425,10 +452,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -436,13 +465,15 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
             </div>
 
             <div class = "row margin">
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -450,10 +481,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -461,10 +494,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -472,10 +507,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -483,6 +520,7 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
             </div>
         </div>

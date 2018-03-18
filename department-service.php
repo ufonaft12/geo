@@ -147,7 +147,8 @@
 
     <!-- שיווק, פרסום ודעת קהל -->
     <section class = "container adv-text-block">
-        <div class = "col-md-12">
+        <div class = "row">
+            <div class = "col-md-12">
             <h2 class = "adv-title">
 איכות השירות וחווית הלקוח            </h2>
 
@@ -170,13 +171,15 @@
 
             </div>
         </div>
+        </div>
     </section>
 
     <!-- Accordeon -->
     <section class = "departament-adv-accordeon">
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 מדידת שביעות רצון                         </div>
@@ -197,11 +200,13 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 הגדלת נתח לקוח ונתח שוק
@@ -234,11 +239,13 @@
                         </ul>
                     </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 שימור לקוחות, נאמנות לקוחות, וכלים למניעת נטישה                        </div>
@@ -259,12 +266,14 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
 
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 כלי דיווח מתקדמים                        </div>
@@ -285,12 +294,14 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
 
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 ייעוץ – ליווי - הדרכה
@@ -312,12 +323,14 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
 
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 תחומי התמחות ופעילות נוספים
@@ -338,6 +351,7 @@
 לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.
 
                     </div>
+                </div>
                 </div>
             </div>
         </div>

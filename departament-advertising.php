@@ -124,7 +124,8 @@
 
 
 	<section class="breadcrumbs-box container">
-	    <div class="col-md-12">
+	    <div class = "row">
+            <div class="col-md-12">
 	        <div class="dimox_breadcrumbs">
 	            <div class="breadcrumbs">
 	                <span>
@@ -143,11 +144,13 @@
 	            </div>
 	        </div>
 	    </div>
+        </div>
 	</section>
 
     <!-- שיווק, פרסום ודעת קהל -->
     <section class = "container adv-text-block">
-        <div class = "col-md-12">
+        <div class = "row">
+            <div class = "col-md-12">
             <h2 class = "adv-title">
                     שיווק, פרסום ודעת קהל
             </h2>
@@ -167,13 +170,15 @@
                 </p>
             </div>
         </div>
+        </div>
     </section>
 
     <!-- Accordeon -->
     <section class = "departament-adv-accordeon">
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
                             מעמד שיווקי ונכסיות מותג (Brand Equity)
@@ -196,11 +201,13 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
                            פתרונות ממוקדי שיווק, פרסום ומכירות
@@ -233,11 +240,13 @@
                         </ul>
                     </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
         מסגמנטציה לאסטרטגיה
@@ -259,11 +268,13 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
                         התמחות במגזרים
@@ -285,11 +296,13 @@
 
                     </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
                         תחומי התמחות ופעילות נוספים:
@@ -346,6 +359,7 @@
 מיפוי אנליטי של תוצאות סקרים, תרגום של נתונים לממצאים ויזואליים, ברזולוציה של בתים במרחב.  המשך לקרוא
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
         </div>

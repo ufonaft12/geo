@@ -432,7 +432,8 @@
 
     <section class = "eco-bottom-text">
         <div class = "container">
-            <div class = "col-md-12">
+            <div class = "row">
+                <div class = "col-md-12">
                 <div class = "eco-bottom-text-title">
                     דוגמאות לפרוייקטים
                 </div>
@@ -441,10 +442,12 @@
 
                 </div>
             </div>
+            </div>
 
             <div class = "row">
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                   <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -452,10 +455,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -463,10 +468,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -474,10 +481,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -485,13 +494,15 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
             </div>
 
             <div class = "row margin">
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -499,10 +510,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -510,10 +523,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -521,10 +536,12 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
 
                 <div class = "col-md-3">
-                    <img src = "img/eco-home.png" class = "img-responsive">
+                    <a href = "#">
+                        <img src = "img/eco-home.png" class = "img-responsive">
                     <div class = "eco-home-title">
                         שם המקום
 
@@ -532,6 +549,7 @@
                     <div class = "eco-home-desc">
                         שם הפרוייקט
                     </div>
+                   </a>
                 </div>
             </div>
         </div>

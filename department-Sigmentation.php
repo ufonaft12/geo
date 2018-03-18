@@ -124,7 +124,8 @@
 
 
 	<section class="breadcrumbs-box container">
-	    <div class="col-md-12">
+	    <div class = "row">
+            <div class="col-md-12">
 	        <div class="dimox_breadcrumbs">
 	            <div class="breadcrumbs">
 	                <span>
@@ -143,11 +144,13 @@
 	            </div>
 	        </div>
 	    </div>
+        </div>
 	</section>
 
     <!-- שיווק, פרסום ודעת קהל -->
     <section class = "container adv-text-block">
-        <div class = "col-md-12">
+        <div class = "row">
+            <div class = "col-md-12">
             <h2 class = "adv-title">
 סגמנטציית לקוחות ומיפוי קהלים            </h2>
 
@@ -165,13 +168,15 @@
 
             </div>
         </div>
+        </div>
     </section>
 
     <!-- Accordeon -->
     <section class = "departament-adv-accordeon">
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 מודלים ופתרונות עתירי מידע                         </div>
@@ -190,11 +195,13 @@
                     <div class = "acc-body">
 לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.                    </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 צוות מומחים, כלי שליטה ובקרה
@@ -227,11 +234,13 @@
                         </ul>
                     </div>
                 </div>
+                </div>
             </div>
         </div>
         <div class = "acc-item">
             <div class = "container justify-content-md-center">
-                <div class = "col-md-10">
+                <div class = "row">
+                    <div class = "col-md-10">
                     <div class = "acc-heading">
                         <div class = "acc-text">
 הכנס טקסט כאן</div>
@@ -251,6 +260,7 @@
                         לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית. סת אלמנקום ניסי נון ניבאה. דס איאקוליס וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס וואל אאוגו וסטיבולום סוליסי טידום בעליק. קוואזי במר מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט למסון בלרק - וענוף לפרומי בלוף קינץ תתיח לרעח. לת צשחמי צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.
 
                     </div>
+                </div>
                 </div>
             </div>
         </div>
