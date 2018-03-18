@@ -192,12 +192,168 @@
                         </div>
                     </div>
                     <div class = "acc-body">
+                        Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.
+
 
                     </div>
                 </div>
             </div>
         </div>
+        <div class = "acc-item">
+            <div class = "container justify-content-md-center">
+                <div class = "col-md-10">
+                    <div class = "acc-heading">
+                        <div class = "acc-text">
+                           פתרונות ממוקדי שיווק, פרסום ומכירות
+
+                        </div>
+                        <div class = "acc-arrow">
+                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
+                                <g>
+                                    <g id="_x31_0_34_">
+                                        <g>
+                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class = "acc-body">
+                        <ul>
+                            <li>מודלים לבדיקת קונספטים פרסומיים / פרסומות לפני עלייתן</li>
+                            <li>מודלים לבדיקת פרזנטורים</li>
+                            <li>מודלים לבדיקת אפקטיביות פרסום (במהלך ו/או לאחר ירידת הקמפיין), כולל ניתוח מידת ההשפעה של הפרסומת על הפרמטרים השיווקים של המותג</li>
+                            <li>בחינת תהליכי קבלת החלטות של לקוחות</li>
+                            <li>בחינת השיקולים בבחירת מוצרים / מותגים</li>
+                            <li>ניתוח עולם התחרות - ניתוח נקודות חוזק וחולשה, Bench-Marketing, איומים והזדמנויות אצל המתחרים, זיהוי מגמות נטישה אצל המתחרים, ומתן כלים לגיוס לקוחות חדשים.</li>
+                            <li>אפקטיביות אמצעי נראות במדף - בולטות אמצעי הנראות והקשר שלהם לקניה בפועל, מחקרי אריזות</li>
+                            <li>E-Commerce מתן כלים להגדלת המכירות באינטרנט</li>
+                            <li><strong>מדד גיאוקרטוגרפיה לאפקטיביות פרסום:</strong> לחברה בסיס נתונים מקיף על תחום הפרסום, ועל בסיסו נערכות השוואות למדד אפקטיביות של פרסומות: השוואה קטגוריאלית, השוואה לפרסומת דומה, השוואה לפרסומות בעלות GRP ו- TRP שפורסמו במקביל</li>
+                            <li>מעקב אחר ביצועי הפרסומת במדד <a href = "#">הפרסומות הזכורות והאהובות</a> של גיאוקרטוגרפיה וגלובס </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class = "acc-item">
+            <div class = "container justify-content-md-center">
+                <div class = "col-md-10">
+                    <div class = "acc-heading">
+                        <div class = "acc-text">
+        מסגמנטציה לאסטרטגיה
+                        </div>
+                        <div class = "acc-arrow">
+                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
+                                <g>
+                                    <g id="_x31_0_34_">
+                                        <g>
+                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class = "acc-body">
+                        Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class = "acc-item">
+            <div class = "container justify-content-md-center">
+                <div class = "col-md-10">
+                    <div class = "acc-heading">
+                        <div class = "acc-text">
+                        התמחות במגזרים
+                        </div>
+                        <div class = "acc-arrow">
+                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
+                                <g>
+                                    <g id="_x31_0_34_">
+                                        <g>
+                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class = "acc-body">
+                        Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class = "acc-item">
+            <div class = "container justify-content-md-center">
+                <div class = "col-md-10">
+                    <div class = "acc-heading">
+                        <div class = "acc-text">
+                        תחומי התמחות ופעילות נוספים:
+                        </div>
+                        <div class = "acc-arrow">
+                            <svg width ="22px" height = "22px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612 612" style="enable-background:new 0 0 612 612;" xml:space="preserve">
+                                <g>
+                                    <g id="_x31_0_34_">
+                                        <g>
+                                            <path d="M604.501,134.782c-9.999-10.05-26.222-10.05-36.221,0L306.014,422.558L43.721,134.782     c-9.999-10.05-26.223-10.05-36.222,0s-9.999,26.35,0,36.399l279.103,306.241c5.331,5.357,12.422,7.652,19.386,7.296     c6.988,0.356,14.055-1.939,19.386-7.296l279.128-306.268C614.5,161.106,614.5,144.832,604.501,134.782z" style="&#10;    color: blue;&#10;    background: blue;&#10;    fill: #d02230;&#10;"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class = "acc-body">
+                       <div class = "acc-body-heading">
+                            מחקרים חברתיים
+                       </div>
+                        <div class = "acc-body-text">
+סקרים ומחקרים עבור עמותות וארגונים הפועלים בתחומי חברה, קהילה, תעסוקה, התנדבות, אוכלוסיות מוחלשות ועוד. מחקרים עבור משרדי ממשלה וגופים ציבוריים בתחומי חינוך, רווחה, בריאות, התמכרויות ועוד.
+                        </div>
+                        <div class = "acc-body-heading">
+                           סקרים פוליטיים
+                       </div>
+                        <div class = "acc-body-text">
+                            סקרי בחירות ברשויות המקומיות ובבחירות לכנסת, ליווי מועמדים בתהליכי קבלת החלטות ובגיבוש האסטרטגיה, תחזיות מנד"טים וכוונות הצבעה.
+                        </div>
+                        <div class = "acc-body-heading">
+            מחקרי אריזות
+                       </div>
+                        <div class = "acc-body-text">
+                         בחינת אריזות חדשות, התאמת האריזה למותג, לקטגוריה ולסדרת מוצרים, אטרקטיביות האריזה בהעברת מסרים ובהנעה לרכישה, בולטות על המדף באמצעות Heat-Map ועוד.
+                        </div>
+                        <div class = "acc-body-heading">
+            מחקר משפטי
+                       </div>
+                        <div class = "acc-body-text">
+סימני מסחר, הטעיית צרכנים, כתיבת חוות דעת משפטיות, ליווי משרדי עורכי דין והופעה בבית משפט
+                        </div>
+
+                        <div class = "acc-body-heading">
+            מחקרים במגזר העסקי
+                       </div>
+                        <div class = "acc-body-text">
+                        בקרב מקבלי החלטות בעסקים וקהלים מקצועיים, מנהלי משאבי אנוש, תחום ההיי-טק, ומגזרים עסקיים נוספים בהתאם לצרכי הלקוח
+                        </div>
+
+                        <div class = "acc-body-heading">
+     סקר +
+                       </div>
+                        <div class = "acc-body-text">
+מיפוי אנליטי של תוצאות סקרים, תרגום של נתונים לממצאים ויזואליים, ברזולוציה של בתים במרחב.  המשך לקרוא
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
+
 
     <footer class="container-fluid">
 		<div class="row">
@@ -252,8 +408,9 @@
 	</footer>
 	<!-- Bootstrap core JavaScript ================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery-3.3.1.slim.min.js"><\/script>')</script>
+    <script src = "js/departament-accordion.js"></script>
 
     </body>
 </html>

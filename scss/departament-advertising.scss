@@ -1,4 +1,12 @@
+$red-color: #d12331;
+$text-color: #4d4d4f;
+
 .departament-adv-page{
+
+  header{
+    background: white;
+  }
+
   background: url('/img/dep-adv.png');
   background-size: contain;
   background-position: top;
@@ -13,14 +21,14 @@
     text-align: center;
 
     .adv-title{
-      color: #4d4d4f;
+      color: $text-color;
       font-size: 35px;
       position: relative;
       &:before{
        position: absolute;
         width: 150px;
         height: 2px;
-        background: #d12331;
+        background: $red-color;
         bottom: -15px;
         content: '';
         left: 50%;
@@ -29,7 +37,7 @@
     }
 
     &-description{
-      color: #4d4d4f;
+      color: $text-color;
       font-size: 17px;
       padding-top: 20px;
       line-height: 27px;
@@ -37,7 +45,9 @@
   }
 
   .departament-adv-accordeon{
-    background: url('../img/dep-adv-accordeon.png');
+    background: url('../img/dep-adv-accordeon.png') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
   }
 
   .acc-item{
@@ -46,23 +56,69 @@
 
     .col-md-10 {
       margin: auto;
+      border-bottom: 1px solid $red-color;
     }
 
     .acc-arrow svg path {
       transition-duration: 0.4s;
     }
 
-    &:hover {
+    &:hover, &.opened {
       background: white;
+      cursor: pointer;
 
       .acc-arrow svg path {
-        fill: blue !important;
+        fill: white !important;
+      }
+
+      .acc-arrow{
+        background: $red-color;
       }
     }
   }
+  .acc-item.opened{
+    background: white;
+  }
 
   .acc-body{
+    padding: 20px 25px;
     display: none;
+
+    &-heading{
+      color: $red-color;
+      margin-top: 35px;
+      font-weight: bold;
+    }
+
+    &-text{
+      color: $text-color;
+      margin-top: 15px;
+    }
+
+    & ul{
+      list-style: none;
+
+      & a{
+        color: $red-color;
+      }
+
+      & li{
+        position: relative;
+        font-size: 16px;
+        color: $text-color;
+        margin: 10px 0;
+
+        &:before{
+          content: '';
+          position: absolute;
+          right: -12px;
+          top: 8px;
+          width: 6px;
+          height: 6px;
+          background: $red-color;
+        }
+      }
+    }
   }
 
   .acc-heading{
@@ -76,11 +132,15 @@
         position: relative;
         padding-right: 15px;
        padding-top: 20px;
+       font-weight: bold;
+       font-size: 19px;
+       color: $text-color;
+
 
        &:before , &:after{
          position: absolute;
          content: '';
-         background: #d02230;
+         background: $red-color;
        }
 
        &:before{
@@ -101,7 +161,7 @@
 
   .acc-arrow{
     padding: 10px;
-    border: 1px solid #d02230;
+    border: 1px solid $red-color;
     display: flex;
     align-items: center;
 
