@@ -1,4 +1,15 @@
 jQuery(document).ready(function($){
+  
+    $(window).scroll(function(){
+        if ($(window).scrollTop() < 50) {
+            $('header').removeClass('fixed'); 
+
+        }
+        else {
+            $('header').addClass('fixed'); 
+        }
+    });
+  
     if(window.matchMedia('(max-width: 768px)').matches) {
         $('body').append('<div class="menu-bg"></div>');
         
@@ -107,16 +118,6 @@ jQuery(document).ready(function($){
     if ( $('.owl-item.active').index() === $('.owl-item').length - 1 ) {
         it.carousel.trigger('to.owl.carousel', [0, 200]);
     }
-
-    $(window).scroll(function(){
-        if ($(window).scrollTop() < 50) {
-            $('header').removeClass('fixed'); 
-
-        }
-        else {
-            $('header').addClass('fixed'); 
-        }
-    });
 
 
 });

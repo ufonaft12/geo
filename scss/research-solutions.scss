@@ -1,0 +1,40 @@
+@import 'main';
+
+.research-solutions-page {
+  background: url(../img/research-solutions-bg.png) no-repeat;
+}
+
+/* Research Solution Description*/
+.research-solution-description p {
+  line-height: 27px;
+  font-size: 20px;
+  margin: 85px 0 -4px;
+}
+
+/* Starlist box */
+.research-solutions-page .starlist-box {
+  margin: 60px auto 119px;
+}
+.research-solutions-page .starlist-box_items {
+  list-style: none;
+  padding: 0;
+  li {
+    background: url(../img/tarlist-boxitem.png) no-repeat right 8px;
+    padding: 8px 50px 8px 0;
+    &:hover {
+      background: url(../img/tarlist-boxitem-hover.png) no-repeat right 8px;
+      color: #d12331;
+      border-top: 1px solid #d02230;
+      border-bottom: 1px solid #d02230;
+    }
+  }
+  a {
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #4d4d4f;
+    &:hover {
+      color: #d12331;
+    }
+  }
+}
