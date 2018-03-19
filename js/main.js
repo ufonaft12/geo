@@ -82,6 +82,29 @@ jQuery(document).ready(function($){
             }
         }
     });
+  
+    $(".analytical-slider").owlCarousel({
+        loop:true,
+        margin:10,
+        responsive:true,
+        navText : ["שיטות נוספות","שיטות נוספות"],
+        rtl:true,
+        responsive:{
+            0:{
+                items:1,
+                nav:true
+            },
+            600:{
+                items:1,
+                nav:false
+            },
+            1000:{
+                items:4,
+                nav:true,
+                loop:true
+            }
+        }
+    });
 
 
     $(".page-slider-box").owlCarousel({

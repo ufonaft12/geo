@@ -1,0 +1,139 @@
+@import 'main';
+$red-color: #d12331;
+
+.analytical-mapping-page {
+  background: url(../img/analytical-mapping-bg.png) no-repeat;
+}
+
+/* analytical description */
+.analytical-description {
+  .title-box {
+    margin-bottom: 83px;
+  }
+  p {
+    font-size: 20px;
+    line-height: 27px;
+    margin: 9px auto;
+  }
+}
+
+/* analytical lists */
+.analytical-lists {
+  p {
+    margin: 36px 0 10px;
+    color: $red-color;
+    line-height: 24px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  ul {
+    list-style: none;
+    padding-right: 15px;
+    a {
+      color: $red-color;
+    }
+    li {
+      position: relative;
+      font-size: 16px;
+      margin-bottom: 10px;
+      line-height: 24px;
+      &:before {
+        content: '';
+        position: absolute;
+        right: -12px;
+        top: 8px;
+        width: 6px;
+        height: 6px;
+        background: $red-color;
+      }
+    }
+  }
+}
+
+/* analytical maps */
+.analytical-maps {
+  margin: 51px auto 193px;
+  img {
+    max-width: 100%;
+  }
+}
+
+/* analytical slider */
+.analytical-slider-box {
+  margin-bottom: 67px;
+}
+.analytical-slider-box_item {
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+  a {
+    display: inline-block;
+    img {
+      border-bottom: 7px solid transparent;
+    }
+    &:hover img {
+      border-bottom: 7px solid $link_active;
+    }
+    &:hover .analytical-slider-box-description {
+      background: url(../img/arrowcontentover.png) no-repeat;
+      background-size: 30px;
+      background-position-x: 24px;
+    }
+  }
+}
+.analytical-slider-box-description {
+  background: url(../img/arrowcontent.png) no-repeat;
+  position: relative;
+  background-size: 30px;
+  top: -53px;
+  background-position-x: 24px;
+  line-height: 24px;
+  padding: 0 21px;
+  box-sizing: border-box;
+  width: 100%;
+  display: inline-block;
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.analytical-slider {
+  padding-top: 60px;
+}
+.analytical-slider .owl-nav {
+  position: relative;
+  top: -290px;
+}
+.analytical-slider .owl-nav .owl-next {
+  background: url(../img/arrow-left.png) no-repeat;
+  left: 0;
+  position: absolute;
+  line-height: 36px;
+  font-size: 16px;
+  padding-left: 59px;
+}
+.analytical-slider .owl-nav .owl-next:hover {
+  background: url(../img/arrow-leftover.png) no-repeat;
+}
+.analytical-slider .owl-nav .owl-prev {
+  background: url(../img/arrow-right.png) no-repeat;
+  right: 0;
+  position: absolute;
+  background-position: right;
+  padding-right: 62px;
+  line-height: 36px;
+  font-size: 16px;
+}
+.analytical-slider .owl-nav .owl-prev:hover {
+  background: url(../img/arrow-rightover.png) no-repeat;
+  background-position: right;
+}
+
+@media (max-width: 380px) {
+  .analytical-slider .owl-nav .owl-prev {
+    padding-right: 45px;
+  }
+  .analytical-slider .owl-nav .owl-next {
+    padding-left: 45px;
+  }
+}
