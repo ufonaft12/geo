@@ -20,9 +20,57 @@
 		<link rel="stylesheet" href="css/fontello.css">
 		<link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/department-Sigmentation.css">
+        <link rel="stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+        <link rel="stylesheet" href="css/front-page-mobile.css">
+        <link rel="stylesheet" href="css/mobile.css">
 	</head>
 
 	<body class="rtl departament-service-page">
+
+
+    <div id = "mobile-menu-front">
+
+	    <div class = "d-flex flex-row align-items-stretch">
+            <div class = "d-flex align-items-center">
+	            <div class = "icon-bars">
+                    <i class = "fa fa-bars"></i>
+                </div>
+	        </div>
+	        <a href = "#" class = "d-flex align-items-center"><i class = "icon-phone"></i></a>
+	    </div>
+
+        <div>
+	        <img src = "img/logo.png">
+	    </div>
+	</div>
+
+    <div id = "mobile-menu-opener">
+        <div class = "mobile-menu-item-container">
+            <a href = "#" class = "active">עמוד הבית</a>
+            <a href = "#">אודות</a>
+            <a href = "#">תחומי פעילות</a>
+            <a href = "#">שיטות מחקר</a>
+            <span  class = "mobile-menu-childs">מהתקשורת
+                <a href = "#" class = "mobile-menu-child">מהתקשורת</a>
+                <a href = "#" class = "mobile-menu-child">מהתקשורת</a>
+                <a href = "#" class = "mobile-menu-child">מהתקשורת</a>
+            </span>
+            <span  class = "mobile-menu-childs">מאמרים
+                <a href = "#" class = "mobile-menu-child">מהתקשורת</a>
+                <a href = "#" class = "mobile-menu-child">מהתקשורת</a>
+                <a href = "#" class = "mobile-menu-child">מהתקשורת</a>
+            </span>
+            <a href = "#">צור קשר</a>
+        </div>
+
+        <div class = "mobile-menu-info">
+            <a href = "#"><i class = "fa fa-facebook"></i></a>
+            <a href = "#"><i class = "fa fa-linkedin"></i></a>
+            <a href = "#">Geo-SIM</a>
+            <a href = "#">Eng</a>
+        </div>
+    </div>
+
 	<header class="container-fluid">
 			<div class="row">
 				<div class="container">
@@ -322,11 +370,33 @@
 			</div>
 		</div>
 	</footer>
+
+    <div id = "mobile-footer">
+        <div class = "d-flex ai-center flex-row-reverse ">
+            <div class = "mobile-footer-item">
+                <a href = "#"><i class = "fa fa-facebook"></i></a>
+            </div>
+            <div class = "mobile-footer-item">
+                <a href = "#"><i class = "fa fa-linkedin"></i></a>
+            </div>
+            <div class = "mobile-footer-item">
+                <a href = "#"><i class = "fa fa-phone"></i></a>
+            </div>
+            <div class = "mobile-footer-item-phone">
+                <a href = "tel:03-7682222">03-7682222</a>
+            </div>
+        </div>
+
+        <div class = "mobile-footer-copyright">
+            ©  כל הזכויות שמורות, קבוצת גיאוקרטוגרפיה בע״מ, 2016
+        </div>
+    </div>
 	<!-- Bootstrap core JavaScript ================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/jquery-3.3.1.slim.min.js"><\/script>')</script>
     <script src = "js/departament-accordion.js"></script>
+    <script type = "text/javascript" src = "js/mobile.js"></script>
 
     </body>
 </html>

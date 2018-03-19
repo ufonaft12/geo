@@ -1,0 +1,56 @@
+@media screen and (max-width: 1170px){
+    .departament-urban-page .adv-text-block{
+    padding-top: 0 !important;
+}
+
+    #mobile-menu-front{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 9999;
+        background: white;
+    }
+
+    #mobile-menu-opener{
+        position: fixed !important;
+        top: 50px !important;
+    }
+
+    .mobile-menu-item-container span{
+        margin: 12px 0;
+        font-weight: bold;
+        color: #4d4d4f;
+    }
+
+    .mobile-menu-child{
+        display: none;
+        margin-right: -20px !important;
+    }
+
+    .mobile-menu-childs.open .mobile-menu-child{
+        display: block !important;
+    }
+
+    .mobile-menu-childs{
+        position: relative;
+        padding-right: 20px;
+    }
+
+    .mobile-menu-childs:before{
+        content: '\f107';
+        font-family: 'fontawesome';
+        position: absolute;
+        top: 10px;
+        transform: translate(0,-50%);
+        right: 0;
+    }
+
+.breadcrumbs-box{
+    padding-top: 0 !important;
+}
+
+body{
+    background: none !important;
+}
+}
