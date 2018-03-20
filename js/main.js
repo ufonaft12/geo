@@ -82,6 +82,33 @@ jQuery(document).ready(function($){
             }
         }
     });
+<<<<<<< HEAD
+
+    $(".carousel-blog").owlCarousel({
+        loop:true,
+        responsive:true,
+        smartSpeed: 700,
+        nav: true,
+        navText : ["<span class='lnr lnr-chevron-left'></span>","<span class='lnr lnr-chevron-right'></span>"],
+        rtl:true,
+        responsive:{
+            0:{
+                items:1,
+                nav:true
+            },
+            600:{
+                items:1,
+                nav:false
+            },
+            1200:{
+                items:4,
+                nav:true,
+                loop:false
+            }
+        }
+    });
+=======
+>>>>>>> 62ebab02320bda5c42943c6692401c0255b44d82
   
     $(".analytical-slider").owlCarousel({
         loop:true,

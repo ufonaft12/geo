@@ -10,7 +10,7 @@
   .departament-service-page .breadcrumbs {
     padding-top: 50px; }
   .departament-service-page .adv-text-block {
-    padding-top: 80px;
+    padding-top: 15px;
     text-align: center; }
     .departament-service-page .adv-text-block .adv-title {
       color: #4d4d4f;
@@ -159,4 +159,30 @@
       font-size: 13px;
       color: #4d4d4f; }
 
+      .fix-header{
+        height: 700px; background: url('/img/dep-sigm.png');
+         background-position: center !important;
+        background-size:contain !important;
+      }
+
+      body{
+        background: white !important;
+      }
+
+      .breadcrumbs-box{
+        padding: 0 !important;
+        margin-top: -110px;
+      }
+
+      @media screen and (max-width: 1748px){
+        .fix-header{
+          background-size: cover !important;
+        }
+      }
+
+       @media screen and (max-width: 1150px){
+        .breadcrumbs-box{
+          padding-top: 50px;
+        }
+      }
 /*# sourceMappingURL=department-Sigmentation.css.map */
