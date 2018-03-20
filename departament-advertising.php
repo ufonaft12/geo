@@ -26,6 +26,10 @@
 	</head>
 
 	<body class="rtl departament-adv-page">
+		<div class = "fix-header">
+			
+		</div>
+
 
     <div id = "mobile-menu-front">
 

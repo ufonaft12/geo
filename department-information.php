@@ -26,6 +26,10 @@
 	</head>
 
 	<body class="rtl departament-information-page">
+<div class = "fix-header">
+            
+        </div>
+		
      <div id = "mobile-menu-front">
 
 	    <div class = "d-flex flex-row align-items-stretch">

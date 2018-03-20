@@ -26,7 +26,14 @@
 	</head>
 
 	<body class="rtl departament-economy-page">
+
+<div class = "fix-header">
+            
+        </div>
+
     <div id = "mobile-menu-front">
+
+        
 
 	    <div class = "d-flex flex-row align-items-stretch">
             <div class = "d-flex align-items-center">

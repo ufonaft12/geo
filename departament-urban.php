@@ -27,6 +27,10 @@
 
 	<body class="rtl departament-urban-page">
 
+        <div class = "fix-header">
+            
+        </div>
+
     <div id = "mobile-menu-front">
 
 	    <div class = "d-flex flex-row align-items-stretch">
