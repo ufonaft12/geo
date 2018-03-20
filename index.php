@@ -315,84 +315,98 @@
 								<div class="activities_item-img">
 									<div class="img1"></div>
 								</div>
-								<div class="activities_item-title">
+								<div class = "mobile-fix-ai">
+                                    <div class="activities_item-title">
 									שיווק, פרסום ודעת קהל
 								</div>
 								<div class="activities_item-description">
 									מגוון פתרונות מחקר וסקרים, ככלי תומך החלטות בתכנון אסטרטגיה עסקית ושיווקית למקבלי החלטות, משרדי פרסום ויח"צ
 								</div>
+                                </div>
 							</div>
 							
 							<div class="activities_item">
 								<div class="activities_item-img">
 									<div class="img2"></div>
 								</div>
+                                <div class = "mobile-fix-ai">
 								<div class="activities_item-title">
 									שיווק, פרסום ודעת קהל
 								</div>
 								<div class="activities_item-description">
 									מגוון פתרונות מחקר וסקרים, ככלי תומך החלטות בתכנון אסטרטגיה עסקית ושיווקית למקבלי החלטות, משרדי פרסום ויח"צ
 								</div>
+                                </div>
 							</div>
 							
 							<div class="activities_item">
 								<div class="activities_item-img">
 									<div class="img3"></div>
 								</div>
+                                <div class = "mobile-fix-ai">
 								<div class="activities_item-title">
 									שיווק, פרסום ודעת קהל
 								</div>
 								<div class="activities_item-description">
 									מגוון פתרונות מחקר וסקרים, ככלי תומך החלטות בתכנון אסטרטגיה עסקית ושיווקית למקבלי החלטות, משרדי פרסום ויח"צ
 								</div>
+                                </div>
 							</div>
 							
 							<div class="activities_item">
 								<div class="activities_item-img">
 									<div class="img4"></div>
 								</div>
+                                <div class = "mobile-fix-ai">
 								<div class="activities_item-title">
 									שיווק, פרסום ודעת קהל
 								</div>
 								<div class="activities_item-description">
 									מגוון פתרונות מחקר וסקרים, ככלי תומך החלטות בתכנון אסטרטגיה עסקית ושיווקית למקבלי החלטות, משרדי פרסום ויח"צ
 								</div>
+                                </div>
 							</div>
 							
 							<div class="activities_item">
 								<div class="activities_item-img">
 									<div class="img5"></div>
 								</div>
+                                <div class = "mobile-fix-ai">
 								<div class="activities_item-title">
 									שיווק, פרסום ודעת קהל
 								</div>
 								<div class="activities_item-description">
 									מגוון פתרונות מחקר וסקרים, ככלי תומך החלטות בתכנון אסטרטגיה עסקית ושיווקית למקבלי החלטות, משרדי פרסום ויח"צ
 								</div>
+                                </div>
 							</div>
 							
 							<div class="activities_item">
 								<div class="activities_item-img">
 									<div class="img6"></div>
 								</div>
+                                <div class = "mobile-fix-ai">
 								<div class="activities_item-title">
 									שיווק, פרסום ודעת קהל
 								</div>
 								<div class="activities_item-description">
 									מגוון פתרונות מחקר וסקרים, ככלי תומך החלטות בתכנון אסטרטגיה עסקית ושיווקית למקבלי החלטות, משרדי פרסום ויח"צ
 								</div>
+                                </div>
 							</div>
 							
 							<div class="activities_item">
 								<div class="activities_item-img">
 									<div class="img7"></div>
 								</div>
+                                <div class = "mobile-fix-ai">
 								<div class="activities_item-title">
 									שיווק, פרסום ודעת קהל
 								</div>
 								<div class="activities_item-description">
 									מגוון פתרונות מחקר וסקרים, ככלי תומך החלטות בתכנון אסטרטגיה עסקית ושיווקית למקבלי החלטות, משרדי פרסום ויח"צ
 								</div>
+                                </div>
 							</div>
 						</div>
 					</div>
@@ -609,7 +623,7 @@
 								</span>
 							</p>
 							
-							<p>
+							<p style = "text-align: left;" >
 								<input value="שלח" class="wpcf7-form-control wpcf7-submit" type="submit">
 								<span class="ajax-loader"></span>
 							</p>
