@@ -40,8 +40,8 @@
 		.slider_info {
 				position: absolute;
 				bottom: 0;
-				height: 135px;
-				padding-top: 27px;
+				height: 130px;
+				padding: 20px 0;
 				background-color: rgba(77, 77, 79, 0.8);
 
 				.slider-description {
@@ -80,7 +80,7 @@
 				margin-right: 44px;
 				background-color: transparent;
 				text-align: center;
-				line-height: 51px;
+				line-height: 48px;
 				font-size: 20px;
 				border: 1px solid #bdbdbd;
 				color: #fff;
@@ -158,20 +158,8 @@
 						transition: all 0.3s ease-out;
 						font-size: 19px;
 						letter-spacing: 5px;
+						line-height: 48px;
 
-						&:hover {
-								background-color: $link_active;
-								color: #ffffff;
-
-								&:before {
-										position: absolute;
-										margin-right: 100px;
-										font-family: Linearicons-Free;
-										content: "\e879";
-										font-size: 30px;
-								}
-
-						}
 
 						&-active {
 								background-color: $link_active;
@@ -183,13 +171,14 @@
 										background-color: $text_dark;
 										border: 1px solid transparent;
 
-										&:before {
-												position: absolute;
-												margin-left: -45px;
-												font-family: Linearicons-Free;
-												content: "\e879";
-												font-size: 30px;
-										}
+&:before {
+										position: absolute;
+										margin-right: 100px;
+										font-family: Linearicons-Free;
+										content: "\e879";
+										font-size: 30px;
+								}
+
 
 								}
 
@@ -200,6 +189,14 @@
 		}
 
 }
+
+
+						.button-first-b:hover {
+								background-color: red;
+								color: #ffffff;
+
+								
+						}
 
 /* end info1 */
 
@@ -641,7 +638,7 @@
 						height: 51px;
 						border: 1px solid #ffffff;
 						text-align: center;
-						line-height: 51px;
+						line-height: 48px;
 						color: #ffffff;
 						text-decoration: none;
 						transition: all 0.3s ease-out;
@@ -724,7 +721,7 @@
 								right: calc(50% - 114px);
 								border: 1px solid #ffffff;
 								text-align: center;
-								line-height: 51px;
+								line-height: 48px;
 								color: #ffffff;
 								text-decoration: none;
 								transition: all 0.3s ease-out;
@@ -753,7 +750,7 @@
 		}
 
 }
-.posts .post_hot .button {letter-spacing: 5px; width: 250px; line-height: 46px;}
+.posts .post_hot .button {letter-spacing: 5px; width: 250px; line-height: 46px !important;}
 
 /* end posts */
 
@@ -816,7 +813,7 @@ section.form {
 				margin-right: 5px;
 				margin-left: 0;
 				text-align: center;
-				background: #ffffff;				
+				background: none;				
 				font-size: 18px;
 				font-weight: 400;
 				color: $link_active;

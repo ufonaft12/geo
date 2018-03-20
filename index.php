@@ -296,8 +296,8 @@
 					בראשות פרופ' אבי דגני וד"ר רינה דגני, מובילה את ענף המחקר בישראל, ומציעה מגוון רחב של פתרונות מחקר, מודלים יישומיים, כלים תומכי החלטות, תכנון, ייעוץ ואסטרטגיה, בהתאמה לצרכי הלקוח.
 				</p>
 				<div class="buttons justify-content-center">
-					<a class="button" href="">המשך לקרוא</a>
-					<a class="button button-active" href="">צור קשר</a>
+					<a class="button button-first-b" href="#">המשך לקרוא</a>
+					<a class="button button-active" href="#">צור קשר</a>
 				</div>
 			</div>
 		</div>
@@ -525,7 +525,7 @@
 				
 				<section class="posts container-fluid">
 					<div class="row">
-						<div class="post col-md-4"  style="background: url(img/post2.png);">
+						<div class="post col-md-4"  style="background: url(img/post2.png); background-position: center;">
 							<div class="post_date">
 								<div class="container-date">
 									<div class="post_date-day">29</div>
@@ -558,7 +558,7 @@
 							<a class="button" href="">המשך לקרוא</a>
 						</div>
 						
-						<div class="post col-md-4"  style="background: url(img/post1.png);">
+						<div class="post col-md-4"  style="background: url(img/post1.png); background-position: center;">
 							<div class="post_date" style="margin-bottom: 30px;">
 								<div class="container-date">
 									<div class="post_date-day">04</div>

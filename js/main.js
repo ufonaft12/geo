@@ -82,7 +82,6 @@ jQuery(document).ready(function($){
             }
         }
     });
-<<<<<<< HEAD
 
     $(".carousel-blog").owlCarousel({
         loop:true,
@@ -107,8 +106,6 @@ jQuery(document).ready(function($){
             }
         }
     });
-=======
->>>>>>> 62ebab02320bda5c42943c6692401c0255b44d82
   
     $(".analytical-slider").owlCarousel({
         loop:true,
