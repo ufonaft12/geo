@@ -41,7 +41,7 @@ header.fixed {
 				li {
 						display: inline-block;
 						height: 35px;
-						padding: 0 20px;
+						padding: 0 10px;
 						border-left: 1px solid $border_line;
 						line-height: 35px;
 						list-style-type: none;
@@ -54,7 +54,7 @@ header.fixed {
 
 						[class^="icon-"]:before,
 						[class*=" icon-"]:before {
-								font-size: 14px;
+								font-size: 16px;
 								color: #999999;
 						}
 
@@ -173,14 +173,14 @@ header.fixed {
 
 .search {
 		float: right;
-		width: 70px;
+		width: 49px;
 		margin-bottom: 30px;
 		border-left: 1px solid #4d4d4f;
 		text-align: center;
 		color: $text-dark;
 
 		img {
-				margin-left: 15px;
+				/*margin-left: 15px;*/
 		}
 
 }
@@ -307,7 +307,7 @@ footer {
 										height: 42px;
 										line-height: 42px;
 										text-align: center;
-										border: 1px solid #ffffff;
+										border: 1px solid #999999;
 										border-radius: 100%;
 										color: #999999;
 										font-size: 20px;
@@ -317,6 +317,7 @@ footer {
 
 										&:hover {
 												color: #ffffff;
+												border: 1px solid #fff;
 										}
 
 								}
@@ -325,9 +326,9 @@ footer {
 
 						.icon-phone {
 								margin: 0 16px;
-								color: #fff;
+								/*color: #fff;*/
 						}
-						.icon-facebook {color: #fff;}
+						/*.icon-facebook {color: #fff;}*/
 
 				}
 

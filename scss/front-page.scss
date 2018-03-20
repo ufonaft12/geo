@@ -75,7 +75,7 @@
 
 		.button {
 				display: block;
-				width: 228px;
+				width: 250px;
 				height: 51px;
 				margin-right: 44px;
 				background-color: transparent;
@@ -108,6 +108,8 @@
 						color: #ffffff;
 						float: left;
 						direction: rtl;
+						font-size: 26px;
+
 
 						&:hover {
 								background-color: darken($link_active, 5%);
@@ -154,6 +156,8 @@
 						color: $link_active;
 						text-decoration: none;
 						transition: all 0.3s ease-out;
+						font-size: 19px;
+						letter-spacing: 5px;
 
 						&:hover {
 								background-color: $link_active;
@@ -171,7 +175,9 @@
 
 						&-active {
 								background-color: $link_active;
-								color: #ffffff;
+								color: #ffffff;	
+								font-size: 19px;	
+								letter-spacing: 5px;						
 
 								&:hover {
 										background-color: $text_dark;
@@ -562,6 +568,10 @@
 				padding: 0 72px;
 				height: 400px;
 
+				p {
+					margin: 10px 0 !important;
+				}
+
 				&_date {
 						position: relative;
 						z-index: 3;
@@ -627,7 +637,7 @@
 						z-index: 3;
 						display: block;
 						bottom: 40px;
-						width: 228px;
+						width: 250px;
 						height: 51px;
 						border: 1px solid #ffffff;
 						text-align: center;
@@ -635,6 +645,7 @@
 						color: #ffffff;
 						text-decoration: none;
 						transition: all 0.3s ease-out;
+						letter-spacing: 5px;
 
 						&:hover {
 								background-color: $bg_red;
@@ -698,7 +709,7 @@
 										font-size: 23px;
 										line-height: 37px;
 										color: #ffffff;
-										font-weight: 400;
+										font-weight: bold;
 								}
 
 						}
@@ -708,7 +719,7 @@
 								z-index: 3;
 								display: block;
 								bottom: 40px;
-								width: 228px;
+								width: 250px;
 								height: 51px;
 								right: calc(50% - 114px);
 								border: 1px solid #ffffff;
@@ -717,6 +728,8 @@
 								color: #ffffff;
 								text-decoration: none;
 								transition: all 0.3s ease-out;
+								letter-spacing: 5px;
+								line-height: 46px;
 
 								&:hover {
 										background-color: #ffffff;
@@ -740,6 +753,7 @@
 		}
 
 }
+.posts .post_hot .button {letter-spacing: 5px; width: 250px; line-height: 46px;}
 
 /* end posts */
 
@@ -782,6 +796,7 @@ section.form {
 				border: 2px solid #e0e0e0;
 				padding: 21px 17px;
 				font-size: 16px;
+				background: none;
 		}
 
 		textarea {
@@ -794,6 +809,7 @@ section.form {
 				border: 2px solid #e0e0e0;
 				color: $text_dark;
 				font-size: 16px;
+				background: none;
 		}
 
 		input[type="submit"] {

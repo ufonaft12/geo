@@ -241,7 +241,7 @@
 								</div>
 								<div class="col-md-4">
 									<div class="slider-redline">
-										<a class="button button-active" href="">המשך לקרוא</a>
+										<a class="button button-active" href=""><strong>לדעת</strong> כדי להצליח !</a>
 									</div>
 								</div>
 							</div>
@@ -264,7 +264,7 @@
 								</div>
 								<div class="col-md-4">
 									<div class="slider-redline">
-										<a class="button button-active" href="">המשך לקרוא</a>
+										<a class="button button-active" href=""><strong>לדעת</strong> כדי להצליח !</a>
 									</div>
 								</div>
 							</div>
@@ -548,7 +548,7 @@
 							</div>
 							<div class="post_hot-item1">
 								<div class="item1-container">
-									<div class="item1-text">דרור מרמור, גלובס</div>
+									<div class="item1-text">דרור מרמור, <strong>גלובס</strong></div>
 									<div class="item1-date">15 מאי 2016</div>
 								</div>
 							</div>
@@ -559,7 +559,7 @@
 						</div>
 						
 						<div class="post col-md-4"  style="background: url(img/post1.png);">
-							<div class="post_date">
+							<div class="post_date" style="margin-bottom: 30px;">
 								<div class="container-date">
 									<div class="post_date-day">04</div>
 									<div class="post_date-month">יולי</div>
@@ -567,6 +567,7 @@
 								</div>
 							</div>
 							<div class="post_title">
+								<p>מאת: פרופ' אבי דגני</p>
 								<h3>לקוח מרוצה זה כבר לא מספיק!</h3>
 							</div>
 							<div class="post_description">
