@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>GEO - front page</title>
+    <title>GEO - blog page</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -68,25 +68,6 @@
         <a href = "#"><i class = "fa fa-linkedin"></i></a>
         <a href = "#">Geo-SIM</a>
         <a href = "#">Eng</a>
-    </div>
-</div>
-
-<div class = "mobile-owl-container">
-    <div class = "mobile-owl owl-carousel">
-
-        <div class = "owl-mobile-item">
-            <img src="img/slide1.jpg">
-            <div class = "slider-text-block">
-                <strong>לדעת</strong> כדי להצליח !
-            </div>
-        </div>
-
-        <div class = "owl-mobile-item">
-            <img src="img/slide1.jpg">
-            <div class = "slider-text-block">
-                <strong>לדעת</strong> כדי להצליח !
-            </div>
-        </div>
     </div>
 </div>
 
@@ -257,8 +238,10 @@
                                             <li class="pagination-item"><a href="#" class="pagination-link">כלכלה</a></li>
                                             <li class="pagination-item"><a href="#" class="pagination-link">צרכנות</a></li>
                                             <li class="pagination-item"><a href="#" class="pagination-link">לקוח</a></li>
-                                            <li class="pagination-item"><span class="icon tag-icon"></span></li>
                                         </ul>
+                                        <div class="tag-icon_wrap">
+                                            <span class="icon tag-icon"></span>
+                                        </div>
                                     </div>
                                     <span>מאת: <strong>פרופ׳ אבי דגני</strong></span>
                                     <h5>לקוח מרוצה זה כבר לא מספיק! </h5>
@@ -399,6 +382,29 @@
 
                                 <div class="carousel-blog_item">
                                     <div class="carousel-blog-image" style="background-image: url('img/post2.jpg')">
+                                        <div class="carousel-item_btn">
+                                            <a href="#"></a>
+                                        </div>
+                                    </div>
+
+                                    <div class="carousel-blog-content">
+                                        <h5>כלים מתקדמים באיתור ממוקד של קהלי מטרה ויישומים של מוזאיק ישראל</h5>
+                                        <div class="dimox_breadcrumbs">
+                                            <div class="breadcrumbs">
+                                                <span>
+                                                    <a href="#">
+                                                        <span>מאמרים</span>
+                                                    </a>
+                                                </span>
+                                                <span class="sep">|</span>
+                                                <span class="current">15 יוני 2016</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="carousel-blog_item">
+                                    <div class="carousel-blog-image" style="background-image: url('img/post3.jpg')">
                                         <div class="carousel-item_btn">
                                             <a href="#"></a>
                                         </div>
