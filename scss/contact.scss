@@ -6,7 +6,7 @@
 
 h3 {
   position: relative;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   font-size: 23px;
   &:before {
     content: '';
@@ -53,11 +53,15 @@ section.contact-form {
 
   }
 
+    p {
+      margin: 10px 0;
+    }
+
   span {
     display: block;
   }
   form {
-    padding-top: 70px;
+    padding-top: 50px;
   }
   input[type="text"],
   input[type="email"],
@@ -87,7 +91,7 @@ section.contact-form {
     margin-left: 0;
     text-align: center;
     background: #ffffff;
-    font-weight: 700;
+    letter-spacing: 5px;
     font-size: 18px;
     color: $link_active;
     border: 1px solid $bg_red;
@@ -95,6 +99,7 @@ section.contact-form {
     padding: 8px 15px 6px;
     width: 228px;
     height: 50px;
+    line-height: 100%;
     float: left;
     cursor: pointer;
     transition: all 0.3s;
