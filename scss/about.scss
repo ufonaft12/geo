@@ -24,6 +24,7 @@
   text-align: center;
   margin-bottom: 70px;
   cursor: pointer;
+  margin-top: 10px;
 }
 .page-about .activities_item-img {
   height: 130px;
@@ -40,6 +41,7 @@
   color: #000;
   font-size: 18px;
   line-height: 24px;
+  font-weight: bold;
 }
 .page-about .activities_item .img1, .activities_item .img2, .activities_item .img3, .activities_item .img4, .activities_item .img5, .activities_item .img6, .activities_item .img7 {
   width: 100px;
@@ -78,12 +80,11 @@
 
 .starlist-box-foot {
   padding: 15px 0;
-  border-bottom: 1px solid red;
-  border-top: 1px solid red;
+  border: 1px solid #bca2ab;
   margin-bottom: 100px;
 
   p {
-    color: red;
+    color: #cb2d44;
     font-size: 19px;
     font-weight: bold;
     margin: 10px 0 0 0;
@@ -124,19 +125,20 @@
 
 .aboutview {
   background: url(../img/vision-bg.png) no-repeat;
-  height: 685px;
+  height: 680px;
     h2 {
       color: #fff;
     }
     p {
       color: #fff;
       font-size: 23px;
-      margin: 20px 0;
+      margin: 10px 0;
     }
 }
 
 .company-items {
-  margin-bottom: 60px;
+  padding-bottom: 60px;
+  background: #f3f3f3;
     h2 {
       margin-bottom: 80px;
     }
