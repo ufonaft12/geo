@@ -54,3 +54,14 @@ body{
     background: none !important;
 }
 }
+
+@media screen and (max-width: 1620px){
+    .banner .slider_info {
+        height: auto;
+    }
+    .posts .post, .posts .post_hot {
+        height: 500px;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+    }
+}

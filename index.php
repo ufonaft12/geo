@@ -218,7 +218,7 @@
 								</div>
 								<div class="col-md-4">
 									<div class="slider-redline">
-										<a class="button button-active" href="">המשך לקרוא</a>
+										<a class="button button-active" href=""><strong>לדעת</strong> כדי להצליח !</a>
 									</div>
 								</div>
 							</div>
@@ -579,7 +579,8 @@
 				</div>
 			</section>
 			
-			<section class="form container">
+			<section class="form container-fluid">
+				<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<h2>צור קשר</h2>
@@ -614,7 +615,7 @@
 							
 						</form>
 					</div>
-				</div>
+				</div></div>
 			</section>
 			
 			<footer class="container-fluid">

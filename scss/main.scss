@@ -7,7 +7,7 @@
 body,
 ul {
 		margin: 0;
-		padding: 0;
+		padding: 0;		
 }
 
 section,
@@ -59,11 +59,12 @@ header.fixed {
 						}
 
 						.icon-phone {
-								color: $text-dark;
+								color: #4d4d4f;
 								margin-right: 10px;
 
 								&:before {
 										font-size: 17px;
+										color: #4d4d4f;
 								}
 
 						}
@@ -135,13 +136,14 @@ header.fixed {
 						visibility: hidden;
 						position: absolute;
 						margin-top: 1px;
+						margin-right: -25px;
 						z-index: 99;
 						transition: all 0.3s;
 
 						li.sub-menu_item {
 								height: 35px;
 								background: #f5f5f5;
-								border-bottom: 1px solid #999999;
+								border-bottom: 1px solid #d2d2d2;
 								list-style-type: none;
 								display: block;
 								width: 240px;
@@ -154,6 +156,7 @@ header.fixed {
 										width: 100%;
 										margin: 0;
 										text-decoration: none;
+										line-height: 34px;
 								}
 
 								&:hover {
@@ -244,6 +247,7 @@ footer {
 						display: inline-flex;
 						justify-content: space-between;
 						float: right;
+						margin-top: -30px;
 
 						li {
 								display: block;
@@ -321,7 +325,9 @@ footer {
 
 						.icon-phone {
 								margin: 0 16px;
+								color: #fff;
 						}
+						.icon-facebook {color: #fff;}
 
 				}
 

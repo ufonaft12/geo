@@ -82,8 +82,8 @@
 				text-align: center;
 				line-height: 51px;
 				font-size: 20px;
-				border: 1px solid  #ffffff;
-				color: #ffffff;
+				border: 1px solid #bdbdbd;
+				color: #fff;
 				text-decoration: none;
 				transition: all 0.3s ease-out;
 				float: right;
@@ -92,13 +92,13 @@
 						background-color: $link_active;
 						border: 1px solid $link_active;
 
-						&:before {
+						/*&:before {
 								position: absolute;
 								margin-left: -45px;
 								font-family: Linearicons-Free;
 								content: "\e879";
 								font-size: 30px;
-						}
+						}*/
 
 				}
 
@@ -107,6 +107,7 @@
 						background-color: $link_active;
 						color: #ffffff;
 						float: left;
+						direction: rtl;
 
 						&:hover {
 								background-color: darken($link_active, 5%);
@@ -128,12 +129,14 @@
 				line-height: 38px;
 				color: $text_dark;
 				font-weight: bold;
+				margin-bottom: 15px;
 		}
 
 		p {
 				color: $text_dark;
 				font-size: 29px;
 				line-height: 47px;
+				margin: 0;
 		}
 
 		.buttons {
@@ -144,7 +147,7 @@
 						margin: 80px 19px 100px 19px;
 						width: 228px;
 						height: 51px;
-						border: 1px solid $link_active;
+						border: 1px solid #ea989f;
 						text-align: center;
 						line-height: 51px;
 						background-color: transparent;
@@ -742,7 +745,8 @@
 
 /* start form */
 section.form {
-		padding-bottom: 100px;
+		padding-bottom: 70px;
+		background: url(../img/contactbg.png) repeat-x;
 
 		h2 {
 				margin-top: 100px;
@@ -775,8 +779,9 @@ section.form {
 				width: 48%;
 				height: 50px;
 				margin-bottom: 22px;
-				border: 1px solid #cccccc;
+				border: 2px solid #e0e0e0;
 				padding: 21px 17px;
+				font-size: 16px;
 		}
 
 		textarea {
@@ -786,19 +791,20 @@ section.form {
 				resize: none;
 				width: 49%;
 				float: left;
-				border: 1px solid #cccccc;
+				border: 2px solid #e0e0e0;
 				color: $text_dark;
+				font-size: 16px;
 		}
 
 		input[type="submit"] {
 				margin-right: 5px;
 				margin-left: 0;
 				text-align: center;
-				background: #ffffff;
-				font-weight: 700;
+				background: #ffffff;				
 				font-size: 18px;
+				font-weight: 400;
 				color: $link_active;
-				border: 1px solid $bg_red;
+				border: 1px solid #e9979e;
 				margin-top: -88px;
 				padding: 8px 15px 6px;
 				width: 228px;
@@ -819,6 +825,21 @@ section.form {
 		}
 
 }
+
+		::-webkit-input-placeholder { /* Chrome */
+		  color: #4d4d4f;
+		}
+		:-ms-input-placeholder { /* IE 10+ */
+		  color: #4d4d4f;
+		}
+		::-moz-placeholder { /* Firefox 19+ */
+		  color: #4d4d4f;
+		  opacity: 1;
+		}
+		:-moz-placeholder { /* Firefox 4 - 18 */
+		  color: #4d4d4f;
+		  opacity: 1;
+		}
 
 /* end form */
 
