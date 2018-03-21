@@ -7,7 +7,7 @@
 		<meta name="author" content="">
 		<link rel="icon" href="favicon.ico">
 		
-		<title>GEO - About</title>
+		<title>GEO - About2</title>
 		
 		<!-- Bootstrap core CSS -->
 		<link rel="stylesheet" href="css/bootstrap-grid.min.css">
@@ -238,8 +238,8 @@
 	</section>
 
 
-	  <section class="four-slider-box container">
-
+	  <section class="four-slider-box container-fluid">
+	<div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="four-slider owl-carousel">
@@ -296,6 +296,7 @@
 
         </div>
       </div>
+    </div>
     </div>
   </section>
 

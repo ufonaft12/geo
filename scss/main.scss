@@ -236,10 +236,12 @@ header.fixed {
 
 }
 
+.img-responsive {width:100%;}
 
 /* Four slider */
 .four-slider-box {
-  margin-bottom: 67px;
+	background: #f7f7f7;
+	padding-bottom: 110px;
 }
 .four-slider-box_item {
   cursor: pointer;
@@ -282,11 +284,11 @@ header.fixed {
   height: 24px;
 }
 .four-slider {
-  padding-top: 60px;
+	padding-top: 150px;
 }
 .four-slider .owl-nav {
   position: relative;
-  top: -290px;
+  top: -320px;
 }
 .four-slider .owl-nav .owl-next {
   background: url(../img/arrow-left.png) no-repeat;
@@ -335,7 +337,10 @@ header.fixed {
   }
 }
 
-
+.content {
+	color: #4d4d4f;
+	margin-bottom: 105px;
+}
 
 /* start footer */
 footer {

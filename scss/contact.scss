@@ -117,4 +117,10 @@ section.contact-form {
 
 }
 
+@media screen and (max-width:899px) {
+  section.contact-form input[type="submit"] {
+     margin-top: 0;
+     width: 100%;
+  }
+}
 /* end form */

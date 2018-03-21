@@ -240,7 +240,9 @@ a:hover .team_box_item-more {background: url(../img/arrowcontentover.png) no-rep
 .team-slider .owl-nav .owl-prev:hover {
   background: url(../img/arrow-rightover.png) no-repeat;
 }
-
+.content  h2.title-box {
+  margin-top: 50px;
+}
 .content ul {
 
     list-style: none;
@@ -252,6 +254,7 @@ a:hover .team_box_item-more {background: url(../img/arrowcontentover.png) no-rep
     font-size: 16px;
     color: #4d4d4f;
     margin-bottom: 10px;
+    color: #4d4d4f;
 }
 .content ul li::before {
     content: '';
@@ -262,4 +265,39 @@ a:hover .team_box_item-more {background: url(../img/arrowcontentover.png) no-rep
     height: 6px;
     background: #d12331;
 }
+.content h4 {
+  margin: 0 0 15px 0;
+}
+.content p {
+  margin: 10px 0 15px 0;
+}
 
+.about-thumb {
+  border-bottom: 1px solid #d02230;
+  margin-bottom: 50px;
+    h4 {
+      color: #d02230 !important;
+      margin: 15px 0 0 0;
+      color: #4d4d4f;
+    }
+    p {
+      margin: 0 0 30px 0;
+      color: #4d4d4f;
+    }
+    img {width: 100%;}
+}
+.about-thumb:after {
+  position: absolute;
+  content: '';
+  background: #d12331;
+  width: 65px;
+  height: 15px;
+  left: 0;
+}
+.about-thumb_text {
+  p {
+    font-weight: bold;
+    line-height: 100%;
+    margin: 0 0 19px 0;
+  }
+}
