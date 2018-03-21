@@ -85,24 +85,21 @@ jQuery(document).ready(function($){
 
     $(".carousel-blog").owlCarousel({
         loop:true,
-        responsive:true,
+        responsiveClass: true,
         smartSpeed: 700,
         nav: true,
+        dots: false,
         navText : ["<span class='lnr lnr-chevron-left'></span>","<span class='lnr lnr-chevron-right'></span>"],
         rtl:true,
         responsive:{
-            0:{
-                items:1,
-                nav:true
+            320:{
+                items:1
             },
-            600:{
-                items:1,
-                nav:false
+            768 :{
+                items:2
             },
             1200:{
-                items:4,
-                nav:true,
-                loop:false
+                items:4
             }
         }
     });

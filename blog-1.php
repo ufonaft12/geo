@@ -71,25 +71,6 @@
     </div>
 </div>
 
-<div class = "mobile-owl-container">
-    <div class = "mobile-owl owl-carousel">
-
-        <div class = "owl-mobile-item">
-            <img src="img/slide1.jpg">
-            <div class = "slider-text-block">
-                <strong>לדעת</strong> כדי להצליח !
-            </div>
-        </div>
-
-        <div class = "owl-mobile-item">
-            <img src="img/slide1.jpg">
-            <div class = "slider-text-block">
-                <strong>לדעת</strong> כדי להצליח !
-            </div>
-        </div>
-    </div>
-</div>
-
 <header class="container-fluid">
     <div class="row">
         <div class="container">

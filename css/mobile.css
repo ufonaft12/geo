@@ -12,6 +12,10 @@
         background: white;
     }
 
+    .mobile-menu-item-container{
+        align-items: flex-start;
+    }
+
     #mobile-menu-opener{
         position: fixed !important;
         top: 50px !important;
@@ -19,13 +23,23 @@
 
     .mobile-menu-item-container span{
         margin: 12px 0;
-        font-weight: bold;
+        font-weight: 500;
         color: #4d4d4f;
+    }
+
+    #overlay{
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: rgba(0,0,0,0.65);
+        width: 100vw;
+        height: 100vh;
+        z-index: 2;
     }
 
     .mobile-menu-child{
         display: none;
-        margin-right: -20px !important;
+        margin-right: 0 !important;
     }
 
     .mobile-menu-childs.open .mobile-menu-child{
@@ -34,7 +48,7 @@
 
     .mobile-menu-childs{
         position: relative;
-        padding-right: 20px;
+        padding-right: 0;
     }
 
     .mobile-menu-childs:before{
@@ -43,7 +57,18 @@
         position: absolute;
         top: 10px;
         transform: translate(0,-50%);
-        right: 0;
+        left: -15px;
+    }
+
+    .mobile-menu-item-container a{
+        font-weight: 400 !important;
+    }
+
+    .icon-bars img{
+        height: 16px;
+        width: 27px;
+        object-fit: contain;
+        object-position: center;
     }
 
 .breadcrumbs-box{
@@ -64,60 +89,4 @@ body{
         background-size: cover !important;
         background-repeat: no-repeat !important;
     }
-}
-@media screen and (max-width: 1170px){
-    .departament-urban-page .adv-text-block{
-    padding-top: 0 !important;
-}
-
-    #mobile-menu-front{
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        z-index: 9999;
-        background: white;
-    }
-
-    #mobile-menu-opener{
-        position: fixed !important;
-        top: 50px !important;
-    }
-
-    .mobile-menu-item-container span{
-        margin: 12px 0;
-        font-weight: bold;
-        color: #4d4d4f;
-    }
-
-    .mobile-menu-child{
-        display: none;
-        margin-right: -20px !important;
-    }
-
-    .mobile-menu-childs.open .mobile-menu-child{
-        display: block !important;
-    }
-
-    .mobile-menu-childs{
-        position: relative;
-        padding-right: 20px;
-    }
-
-    .mobile-menu-childs:before{
-        content: '\f107';
-        font-family: 'fontawesome';
-        position: absolute;
-        top: 10px;
-        transform: translate(0,-50%);
-        right: 0;
-    }
-
-.breadcrumbs-box{
-    padding-top: 50px !important;
-}
-
-body{
-    background: none !important;
-}
 }
