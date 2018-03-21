@@ -189,7 +189,7 @@
 
 	
 	
-	<section class="container">
+	<section class="container content">
 		<div class="row">
 			<div class="col-md-12">
 				<h2 class="title-box">בעלי תפקידים</h2>
@@ -198,7 +198,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="about-thumb">
-					<img src="http://via.placeholder.com/400x260" alt="">
+					<img src="../img/avi.png" alt="">
 					<h4>פרופ' אבי דגני</h4>
 					<p>נשיא</p>
 				</div>
@@ -237,7 +237,69 @@
 		</div>
 	</section>
 
-	<section class="page-slider">
+
+	  <section class="four-slider-box container">
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="four-slider owl-carousel">
+
+          <div class="four-slider-box_item">
+            <a href="#"><img src="../img/aboutslide1.png" alt="img">
+             <span class="four-slider-box-description"></span>
+            </a>
+            <div class="four-slider-box_item-title">
+                <p class="four-slider-box_item_title">ד"ר רינה דגני</p>
+                <p>יו״ר</p>
+            </div>	
+          </div>
+
+          <div class="four-slider-box_item">
+            <a href="#"><img src="img/aboutslide2.png" alt="img">
+             <span class="four-slider-box-description"></span>
+            </a>
+            <div class="four-slider-box_item-title">
+                <p class="four-slider-box_item_title">ד"ר רינה דגני</p>
+                <p>יו״ר</p>
+            </div>	            
+          </div>
+
+          <div class="four-slider-box_item">
+            <a href="#"><img src="img/aboutslide2.png" alt="img">
+              <span class="four-slider-box-description"></span>
+            </a>
+            <div class="four-slider-box_item-title">
+                <p class="four-slider-box_item_title">ד"ר רינה דגני</p>
+                <p>יו״ר</p>
+            </div>	            
+          </div>
+
+          <div class="four-slider-box_item">
+            <a href="#"><img src="img/aboutslide2.png" alt="img">
+              <span class="four-slider-box-description"></span>
+            </a>
+            <div class="four-slider-box_item-title">
+                <p class="four-slider-box_item_title">ד"ר רינה דגני</p>
+                <p>יו״ר</p>
+            </div>	            
+          </div>
+
+          <div class="four-slider-box_item">
+            <a href="#"><img src="img/aboutslide2.png" alt="img">
+              <span class="four-slider-box-description"></span>
+            </a>
+            <div class="four-slider-box_item-title">
+                <p class="four-slider-box_item_title">ד"ר רינה דגני</p>
+                <p>יו״ר</p>
+            </div>	            
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+	<!--<section class="page-slider">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6"><div class="page-slider-next">1</div></div>
@@ -247,62 +309,62 @@
 				<div class="page-slider-box owl-carousel">
 
 					<div class="page-slider-box_item">
-                                <a href="#"><img src="http://via.placeholder.com/293x191" alt=""><div class="page-slider-box_item-more"></div></a>
+                                <a href="#"><img src="../img/aboutslide1.png" alt=""><div class="page-slider-box_item-more"></div></a>
                                 <div class="page-slider-box_item-title">
-                                     <p class="page-slider-box_item_title">פרופ' אבי דגני</p>
-                                    <p>נשיא</p>
+                                     <p class="page-slider-box_item_title">ד"ר רינה דגני</p>
+                                    <p>יו״ר</p>
 
                                 </div>						
 					</div>
-					<!-- /.page-slider-box_item -->
+					
 
 					<div class="page-slider-box_item">
-                                <a href="#"><img src="http://via.placeholder.com/293x191" alt=""><div class="page-slider-box_item-more"></div></a>
+                                <a href="#"><img src="../img/aboutslide2.png" alt=""><div class="page-slider-box_item-more"></div></a>
                                 <div class="page-slider-box_item-title">
-                                     <p class="page-slider-box_item_title">פרופ' אבי דגני</p>
-                                    <p>נשיא</p>
+                                     <p class="page-slider-box_item_title">לירון פל דמן</p>
+                                    <p>מנכ״ל</p>
 
                                 </div>						
 					</div>
-					<!-- /.page-slider-box_item -->
-
-
-					<div class="page-slider-box_item">
-                                <a href="#"><img src="http://via.placeholder.com/293x191" alt=""><div class="page-slider-box_item-more"></div></a>
-                                <div class="page-slider-box_item-title">
-                                     <p class="page-slider-box_item_title">פרופ' אבי דגני</p>
-                                    <p>נשיא</p>
-
-                                </div>						
-					</div>
-					<!-- /.page-slider-box_item -->
+				
 
 
 					<div class="page-slider-box_item">
-                                <a href="#"><img src="http://via.placeholder.com/293x191" alt=""><div class="page-slider-box_item-more"></div></a>
+                                <a href="#"><img src="../img/aboutslide2.png" alt=""><div class="page-slider-box_item-more"></div></a>
                                 <div class="page-slider-box_item-title">
-                                     <p class="page-slider-box_item_title">פרופ' אבי דגני</p>
-                                    <p>נשיא</p>
+                                     <p class="page-slider-box_item_title">איציק השקו</p>
+                                    <p>סמנכ"ל מחקר</p>
 
                                 </div>						
 					</div>
-					<!-- /.page-slider-box_item -->
+					
 
 
 					<div class="page-slider-box_item">
-                                <a href="#"><img src="http://via.placeholder.com/293x191" alt=""><div class="page-slider-box_item-more"></div></a>
+                                <a href="#"><img src="../img/aboutslide2.png" alt=""><div class="page-slider-box_item-more"></div></a>
                                 <div class="page-slider-box_item-title">
-                                     <p class="page-slider-box_item_title">פרופ' אבי דגני</p>
-                                    <p>נשיא</p>
+                                     <p class="page-slider-box_item_title">אלי משולם</p>
+                                    <p>סמנכ"ל שיווק ומכירות</p>
 
                                 </div>						
 					</div>
-					<!-- /.page-slider-box_item -->					
+				
+
+
+					<div class="page-slider-box_item">
+                                <a href="#"><img src="../img/aboutslide2.png" alt=""><div class="page-slider-box_item-more"></div></a>
+                                <div class="page-slider-box_item-title">
+                                     <p class="page-slider-box_item_title">איציק השקו</p>
+                                    <p>סמנכ"ל מחקר</p>
+
+                                </div>						
+					</div>
+									
 
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>-->
 		
 	
 	

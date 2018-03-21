@@ -155,6 +155,29 @@ jQuery(document).ready(function($){
         }
     });
 
+        $(".four-slider").owlCarousel({
+        loop:true,
+        margin:10,
+        responsive:true,
+        navText : [" "," "],
+        rtl:true,
+        responsive:{
+            0:{
+                items:1,
+                nav:true
+            },
+            600:{
+                items:1,
+                nav:false
+            },
+            1000:{
+                items:4,
+                nav:true,
+                loop:true
+            }
+        }
+    });
+
     var pageslider = $('.page-slider-box');
     $(".page-slider-next").click(function(){
             pageslider.trigger("next.owl.carousel");

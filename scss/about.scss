@@ -76,7 +76,11 @@
   background: url(../img/aboutgraf.png) no-repeat;
   height: 502px;
 }
-
+.page-about h2.title-box {
+  margin-top: 60px;
+  margin-bottom: 80px;
+  letter-spacing: 4px;
+}
 
 .starlist-box-foot {
   padding: 15px 0;
@@ -236,3 +240,26 @@ a:hover .team_box_item-more {background: url(../img/arrowcontentover.png) no-rep
 .team-slider .owl-nav .owl-prev:hover {
   background: url(../img/arrow-rightover.png) no-repeat;
 }
+
+.content ul {
+
+    list-style: none;
+    padding-right: 15px;
+
+}
+.content li {
+    position: relative;
+    font-size: 16px;
+    color: #4d4d4f;
+    margin-bottom: 10px;
+}
+.content ul li::before {
+    content: '';
+    position: absolute;
+    right: -12px;
+    top: 8px;
+    width: 6px;
+    height: 6px;
+    background: #d12331;
+}
+

@@ -189,7 +189,7 @@ header.fixed {
 
 /* breadcrumbs */
 .breadcrumbs-box {
-	padding-top: 550px;
+	padding-top: 540px;
 
 	span {
 		font-size: 16px;
@@ -235,6 +235,107 @@ header.fixed {
 	}
 
 }
+
+
+/* Four slider */
+.four-slider-box {
+  margin-bottom: 67px;
+}
+.four-slider-box_item {
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+  a {
+    display: inline-block;
+    height:190px;
+    img {
+      border-bottom: 7px solid transparent;
+    }
+    &:hover img {
+      border-bottom: 7px solid $link_active;
+    }
+    &:hover .analytical-slider-box-description {
+      background: url(../img/arrowcontentover.png) no-repeat;
+      background-size: 30px;
+      background-position-x: 24px;
+    }
+  }
+}
+.four-slider-box_item{
+  	height:250px;
+  }
+.four-slider-box-description {
+  background: url(../img/arrowcontent.png) no-repeat;
+  position: relative;
+  background-size: 30px;
+  top: -53px;
+  background-position-x: 24px;
+  line-height: 24px;
+  padding: 0 21px;
+  box-sizing: border-box;
+  width: 100%;
+  display: inline-block;
+  font-size: 14px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  height: 24px;
+}
+.four-slider {
+  padding-top: 60px;
+}
+.four-slider .owl-nav {
+  position: relative;
+  top: -290px;
+}
+.four-slider .owl-nav .owl-next {
+  background: url(../img/arrow-left.png) no-repeat;
+  left: 0;
+  position: absolute;
+  line-height: 36px;
+  font-size: 16px;
+  padding-left: 59px;
+  width: 44px;
+  height: 36px;
+}
+.four-slider .owl-nav .owl-next:hover {
+  background: url(../img/arrow-leftover.png) no-repeat;
+}
+.four-slider .owl-nav .owl-prev {
+  background: url(../img/arrow-right.png) no-repeat;
+  right: 0;
+  position: absolute;
+  background-position: right;
+  padding-right: 62px;
+  line-height: 36px;
+  font-size: 16px;
+  width: 44px;
+  height: 36px;
+}
+.four-slider .owl-nav .owl-prev:hover {
+  background: url(../img/arrow-rightover.png) no-repeat;
+  background-position: right;
+}
+.four-slider-box_item-title {
+	position: absolute;
+	bottom: -5px;
+		p {margin: 0; font-size: 18px;}
+		p.four-slider-box_item_title {
+			font-weight: bold;
+			color: #d12331;
+		}
+}
+
+@media (max-width: 380px) {
+  .four-slider .owl-nav .owl-prev {
+    padding-right: 45px;
+  }
+  .four-slider .owl-nav .owl-next {
+    padding-left: 45px;
+  }
+}
+
+
 
 /* start footer */
 footer {
