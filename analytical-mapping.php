@@ -26,7 +26,7 @@
   <link rel="stylesheet" href="css/mobile.css">
 </head>
 
-<body class="rtl analytical-mapping-page">
+<body class="rtl page-template-page-analitical-mapping">
 
   <div id="mobile-menu-front">
 
@@ -198,7 +198,7 @@
   <section class="container analytical-description">
     <div class="row">
       <div class="col">
-        <h2 class="title-box">מיפוי אנליטי</h2>
+        <h1 class="title-box">מיפוי אנליטי</h1>
         <p class="text-center">מיפוי אנליטי הוא שיטה, העושה שימוש במודלים גיאו-סטטיסטיים ומתמטיים, ובאמצעותה ניתן לנתח עוצמתן של תופעות נחקרות, בקשר עם המקום בו הן מתרחשות, ולתרגם את ממצאי המחקר לרמה ויזואלית. </p>
         <p class="text-center">שיטת AVISYS מיישמת את "תאוריית המרחב החופשי", הגורסת כי אין לחלק את המרחב באופן שרירותי, אלא כתלות של התופעה הנחקרת, כאשר החלוקה היא למעשה, אחד מתוצריו של תהליך הניתוח.</p>
       </div>

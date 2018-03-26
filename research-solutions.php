@@ -26,7 +26,7 @@
   <link rel="stylesheet" href="css/mobile.css">
 </head>
 
-<body class="rtl research-solutions-page">
+<body class="rtl page-template-research">
 
   <div id="mobile-menu-front">
 
@@ -192,7 +192,7 @@
   <section class="container research-solution-description">
     <div class="row">
       <div class="col-md-12">
-        <h2 class="title-box">מגוון פתרונות מחקר</h2>
+        <h1 class="title-box">מגוון פתרונות מחקר</h1>
         <p class="text-center">כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים כדאי להכניס כאן טקסט מקדים </p>
       </div>
     </div>
